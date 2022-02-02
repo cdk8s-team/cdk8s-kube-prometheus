@@ -1,14 +1,20 @@
 const { cdk } = require('projen');
 const project = new cdk.JsiiProject({
-  author: 'epolon',
-  authorAddress: 'epolon@amazon.com',
+  release: false,
+  author: 'Amazon Web Services',
+  authorUrl: 'https://aws.amazon.com',
   defaultReleaseBranch: 'main',
   name: 'cdk8s-kube-prometheus',
   repositoryUrl: 'git@github.com:cdk8s-team/cdk8s-kube-prometheus.git',
-
-  // deps: [],                /* Runtime dependencies of this module. */
-  // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
-  // devDeps: [],             /* Build dependencies for this module. */
-  // packageName: undefined,  /* The "name" in package.json. */
+  devDeps: ['cdk8s-cli', 'ts-node'],
+  deps: [
+    'cdk8s',
+    'cdk8s-plus-22',
+    'constructs',
+  ],
 });
+
+const synth = project.addTask('synth');
+synth.exec('cdk8s synth');
+
 project.synth();

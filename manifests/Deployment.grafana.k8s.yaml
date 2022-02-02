@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app.kubernetes.io/component: grafana
+    app.kubernetes.io/name: grafana
+    app.kubernetes.io/part-of: kube-prometheus
+    app.kubernetes.io/version: 8.3.4
+  name: grafana
+  namespace: monitoring
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/component: grafana
+      app.kubernetes.io/name: grafana
+      app.kubernetes.io/part-of: kube-prometheus
+  template:
+    metadata:
+      annotations:
+        checksum/grafana-config: da579b2ee81dc98ffbcc068a3422822a
+        checksum/grafana-dashboardproviders: bc79f12017c019002ed650d44571a465
+        checksum/grafana-datasources: c921684c6242ca2a8564803a9ae21504
+      labels:
+        app.kubernetes.io/component: grafana
+        app.kubernetes.io/name: grafana
+        app.kubernetes.io/part-of: kube-prometheus
+    spec:
+      containers:
+        - env: []
+          image: grafana/grafana:8.3.4
+          imagePullPolicy: Always
+          name: grafana
+          ports:
+            - containerPort: 3000
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /api/health
+              port: 3000
+          volumeMounts: []
+      volumes: []
