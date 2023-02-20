@@ -1,12 +1,16 @@
 {
   "dependencies": [
     {
+      "name": "@cdk8s/projen-common",
+      "type": "build"
+    },
+    {
       "name": "@types/jest",
       "type": "build"
     },
     {
       "name": "@types/node",
-      "version": "^12",
+      "version": "^14",
       "type": "build"
     },
     {
@@ -91,7 +95,7 @@
       "type": "runtime"
     },
     {
-      "name": "cdk8s-plus-22",
+      "name": "cdk8s-plus-25",
       "type": "runtime"
     },
     {
