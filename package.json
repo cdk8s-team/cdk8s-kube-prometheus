@@ -59,9 +59,9 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "cdk8s": "^1.5.5",
-    "cdk8s-plus-22": "^1.0.0-beta.106",
-    "constructs": "^3.3.206"
+    "cdk8s": "^2.0.0",
+    "cdk8s-plus-25": "^2.4.26",
+    "constructs": "^10.0.0"
   },
   "engines": {
     "node": ">= 14.17.0"

@@ -1,5 +1,5 @@
 import * as cdk8s from 'cdk8s';
-import * as kplus from 'cdk8s-plus-22';
+import * as kplus from 'cdk8s-plus-25';
 import { Construct } from 'constructs';
 
 export class Grafana extends cdk8s.Chart {
@@ -28,7 +28,7 @@ export class Grafana extends cdk8s.Chart {
       replicas: 1,
 
       // TODO - expose default selector configuration and automatically add them as labels.
-      defaultSelector: false,
+      select: false,
     });
 
     deployment.addContainer({
@@ -39,7 +39,7 @@ export class Grafana extends cdk8s.Chart {
     });
 
     for (const [label, value] of Object.entries(selectors)) {
-      deployment.selectByLabel(label, value);
+      deployment.select(kplus.LabelSelector.of({ labels: { label: value } }));
       deployment.podMetadata.addLabel(label, value);
     }
 
