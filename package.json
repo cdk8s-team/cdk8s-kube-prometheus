@@ -59,9 +59,9 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "cdk8s": "^2.7.67",
-    "cdk8s-plus-25": "^2.7.30",
-    "constructs": "^10.2.26"
+    "cdk8s": "^2.7.70",
+    "cdk8s-plus-25": "^2.7.33",
+    "constructs": "^10.2.29"
   },
   "resolutions": {
     "@types/prettier": "2.6.0",
