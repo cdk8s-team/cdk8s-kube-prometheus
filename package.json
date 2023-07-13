@@ -41,7 +41,7 @@
     "@types/node": "^16",
     "@typescript-eslint/eslint-plugin": "^5",
     "@typescript-eslint/parser": "^5",
-    "cdk8s-cli": "^1.3.88",
+    "cdk8s-cli": "^1.3.89",
     "eslint": "^8",
     "eslint-import-resolver-node": "^0.3.7",
     "eslint-import-resolver-typescript": "^2.7.1",
@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "cdk8s": "^2.7.102",
-    "cdk8s-plus-25": "^2.8.82",
+    "cdk8s-plus-25": "^2.8.84",
     "constructs": "^10.2.69"
   },
   "resolutions": {
