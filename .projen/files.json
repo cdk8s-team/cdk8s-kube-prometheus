@@ -12,6 +12,7 @@
     ".github/workflows/security.yml",
     ".github/workflows/stale.yml",
     ".github/workflows/triage.yml",
+    ".github/workflows/upgrade-compiler-dependencies.yml",
     ".github/workflows/upgrade-configuration.yml",
     ".github/workflows/upgrade-dev-dependencies.yml",
     ".github/workflows/upgrade-runtime-dependencies.yml",
