@@ -1743,7 +1743,7 @@ cdk8s-cli@^1.7.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s-plus-25@^2.10.0:
+cdk8s-plus-25@^2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.11.0.tgz#a0b6eb774209e74eba5664009d7b4f9e696f3206"
   integrity sha512-BqjncKCdUCLvCkXa5OVv8sNqmY0L6e1AVCL0CDRoKgNXOrudXFc+z7g8scCR15cx1wmpCs052RR9VUSRHp+yzA==
@@ -1761,7 +1761,7 @@ cdk8s@^1.12.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.12.0:
+cdk8s@^2.14.0:
   version "2.14.0"
   resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.14.0.tgz#48f75da0b4e7c9fd161cf6ecbfaa968e6d7606dd"
   integrity sha512-qax2330JH1NLq84JHQHMVBgdZUKUo3D3bQV0BfV76NfcmmVeTLmhkNx5z9uURuR6rp0/qwVuxqxjp3qTRP0BfQ==
@@ -5160,10 +5160,10 @@ progress@^2.0.3:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.71.148:
-  version "0.71.148"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.71.148.tgz#a741e8ec8eff86701fcadf35ff11c539f6715d91"
-  integrity sha512-oIfQX4LjES0S5AoLeKi6fabEAeNMWRIX9jOL3VGIj1wM3VDofPwW8US6znZrqDeyuyz+ND9UbO7f8mhn2RfNgQ==
+projen@^0.71.149:
+  version "0.71.149"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.71.149.tgz#d21851d6965383200cbcebb178346a39f87a78d6"
+  integrity sha512-przNNUS921ulTo8z5aB46GG3hR4JhqK+65SggXrAJJZRasfkteJFIGfGcB+28G0NRCt0eRH8Y8CGcHrYK6bJeQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
