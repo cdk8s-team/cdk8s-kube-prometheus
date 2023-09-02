@@ -1055,14 +1055,14 @@
   integrity sha512-K0VQKziLUWkVKiRVrx4a40iPaxTUefQmjtkQofBkYRcoaaL/8rhwDWww9qWbrgicNOgnpIsMxyNIUM4+n6dUIA==
 
 "@types/node@*":
-  version "20.5.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.7.tgz#4b8ecac87fbefbc92f431d09c30e176fc0a7c377"
-  integrity sha512-dP7f3LdZIysZnmvP3ANJYTSwg+wLLl8p7RqniVlV7j+oXSXAbt9h0WIBFmJy5inWZoX9wZN6eXx+YXd9Rh3RBA==
+  version "20.5.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.8.tgz#fb171fd22d37ca6e2ea97fde88e6a13ee14bc327"
+  integrity sha512-eajsR9aeljqNhK028VG0Wuw+OaY5LLxYmxeoXynIoE6jannr9/Ucd1LL0hSSoafk5LTYG+FfqsyGt81Q6Zkybw==
 
 "@types/node@^16":
-  version "16.18.46"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.46.tgz#9f2102d0ba74a318fcbe170cbff5463f119eab59"
-  integrity sha512-Mnq3O9Xz52exs3mlxMcQuA7/9VFe/dXcrgAyfjLkABIqxXKOgBRjyazTxUbjsxDa4BP7hhPliyjVTP9RDP14xg==
+  version "16.18.47"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.47.tgz#5b64972c7f9a93e8ef3fc818e2f932c05d042ea4"
+  integrity sha512-yBaT6qZKmvaeTuv8kfv2QwIsgi/D4bYSLmHow/IBxjLNRHxYEXgwVRvBmnNLBXi3CkZg0Wdzu3NTUlUjjxconQ==
 
 "@types/prettier@2.6.0", "@types/prettier@^2.1.5":
   version "2.6.0"
@@ -1731,10 +1731,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.68.0:
-  version "1.68.0"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.68.0.tgz#56f4ed21eb1ec305d0de8f2e5ae7aa7b2d92bbbb"
-  integrity sha512-eExVRF7yUvrs4pFvjIFFLzUHk3/Wjxxm1MO5s58OiJlygLA7uJWuuckKXDLfaLE4/InR+lk+VsG96xfMd0gC2A==
+cdk8s-cli@^1.69.0:
+  version "1.69.0"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.69.0.tgz#83f0fd5ea670295cdc83368e280224dc925cacd2"
+  integrity sha512-BY0SzaKBYA8LfHydimxCX3rX9N2VPEa+o/+SSZ1DkT9kW/KPkfJJF2aw0x0XaT3MZT2Unr/UYDNVJAZsm7qJ0w==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
