@@ -1366,14 +1366,14 @@ array-buffer-byte-length@^1.0.0:
     is-array-buffer "^3.0.1"
 
 array-includes@^3.1.6:
-  version "3.1.6"
-  resolved "https://registry.yarnpkg.com/array-includes/-/array-includes-3.1.6.tgz#9e9e720e194f198266ba9e18c29e6a9b0e4b225f"
-  integrity sha512-sgTbLvL6cNnw24FnbaDyjmvddQ2ML8arZsgaJhoABMoplz/4QRhtrYS+alr1BUM1Bwp6dhx8vVCBSLG+StwOFw==
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/array-includes/-/array-includes-3.1.7.tgz#8cd2e01b26f7a3086cbc87271593fe921c62abda"
+  integrity sha512-dlcsNBIiWhPkHdOEEKnehA+RNUWDc4UqFtnIXU4uuYDPtA4LDkr7qip2p0VvFAEXNDr0yWZ9PJyIRiGjRLQzwQ==
   dependencies:
     call-bind "^1.0.2"
-    define-properties "^1.1.4"
-    es-abstract "^1.20.4"
-    get-intrinsic "^1.1.3"
+    define-properties "^1.2.0"
+    es-abstract "^1.22.1"
+    get-intrinsic "^1.2.1"
     is-string "^1.0.7"
 
 array-timsort@^1.0.3:
@@ -1731,10 +1731,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.70.0:
-  version "1.70.0"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.70.0.tgz#80a7f703735aad485314a9b4efc9a2193764ddd1"
-  integrity sha512-VsjqLi9109uv9RY9CnV44XZpN1uPKIPsdBRRnyXiOW3abhiw5omF8uyKC7sOphQLUUO8bnXoMGCaw7o8dz7z4w==
+cdk8s-cli@^1.72.0:
+  version "1.72.0"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.72.0.tgz#2c4e839adae5bf2a41032e1c975903f6c32ef82f"
+  integrity sha512-7I89hcTGxsCul2HD1ZxpGrzPzrAIOx0ub6vhaCpdoi37an74iXLZxZBOhgZraBvs7FiFJmWC4+opnGW4Ssn5IA==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
@@ -1762,9 +1762,9 @@ cdk8s-plus-25@^2.22.1:
     minimatch "^3.1.2"
 
 cdk8s@^1.61.2:
-  version "1.61.2"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.61.2.tgz#2d49318bd690934f1547c8a4ed2fd3199d1fb203"
-  integrity sha512-5YRIAiY1Ds+TU7llPgbuS7ksJlhIkXZPA9kqQGoimd9Diu38gZMG6KJWhQs/sjh5SinCrWIfAp3ionlebmOnMA==
+  version "1.61.3"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.61.3.tgz#9484f01ac6b70356e7811153b7ab3fcb8a1e7482"
+  integrity sha512-awsAZBSWaGdsG/Ib2JQ5vABkaJBwDaNsXg1WyK007Yxqh5fMPAZPOECa9bC15w1epEnRA2mJKuFs4XsTPDPfFA==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
