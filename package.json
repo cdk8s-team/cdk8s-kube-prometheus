@@ -62,7 +62,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "cdk8s": "^2.64.10",
+    "cdk8s": "^2.64.11",
     "cdk8s-plus-25": "^2.22.11",
     "constructs": "^10.2.70"
   },
