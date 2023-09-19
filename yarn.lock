@@ -1755,10 +1755,10 @@ cdk8s-cli@^1.94.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s-plus-25@^2.22.12:
-  version "2.22.12"
-  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.12.tgz#28d5fad3ed9158edd57d25cac3c44a8130944550"
-  integrity sha512-4G1yVrQ/x1Q2j/2KUi2hLuFWxCPUkPKhUmlk/sCpMmUagRwmH1oAEvGklg7Ab3zvjvuUls8uAyVG07pOtoywGA==
+cdk8s-plus-25@^2.22.13:
+  version "2.22.13"
+  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.13.tgz#06029e4ac65d42ab64e5c04991f45458cc15cac2"
+  integrity sha512-9fOgt1GDuH7Sj39dxeX3mT08o23QqYc7Rw0JCzHxsfR6Ib21Q+V+hMRZi8KbpAZUmkvcQR26ze2DQyZeGrouyw==
   dependencies:
     minimatch "^3.1.2"
   optionalDependencies:
@@ -1775,10 +1775,10 @@ cdk8s@^1.61.13:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.64.13:
-  version "2.64.13"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.64.13.tgz#009f54811972c18341c4686511800a3c2949de52"
-  integrity sha512-1wkJqyo/8jYeWHUKp0jS1vf/2+sG0qUDXBi28/iGpWzdJlM8HfYX5LzPuiu9zq/XXpwrKjhAfXjMvVMFzYzetw==
+cdk8s@^2.64.14:
+  version "2.64.14"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.64.14.tgz#51c9a7476fdbcf65a8fed96f19f37ced2780b096"
+  integrity sha512-vLSDQIWBLrbUbxtjektgfpSsnripw81HyIkMASaXXo5lmWnn5yG/r5wuWrI7dZoNGqbDa4aYShPg6IyKdKH5pg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -5755,9 +5755,9 @@ spdx-expression-parse@^3.0.0:
     spdx-license-ids "^3.0.0"
 
 spdx-license-ids@^3.0.0:
-  version "3.0.13"
-  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.13.tgz#7189a474c46f8d47c7b0da4b987bb45e908bd2d5"
-  integrity sha512-XkD+zwiqXHikFZm4AX/7JSCXA98U5Db4AFd5XUg/+9UNtnH75+Z9KxtpYiJZx36mUDVOwH83pl7yvCer6ewM3w==
+  version "3.0.14"
+  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.14.tgz#d16b09577b7de461c8c3e69734c4b9b467ac791f"
+  integrity sha512-U0eS5wcpu/O2/QZk6PcAMOA8H3ZuvRe4mFHA3Q+LNl1SRDmfQ+mD3RoD6tItqnvqubJ32m/zV2Z/ikSmxccD1Q==
 
 spdx-license-list@^6.6.0:
   version "6.7.0"
