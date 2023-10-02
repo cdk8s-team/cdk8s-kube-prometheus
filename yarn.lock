@@ -1731,23 +1731,23 @@ camelcase@^7.0.1:
   integrity sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==
 
 caniuse-lite@^1.0.30001541:
-  version "1.0.30001541"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001541.tgz#b1aef0fadd87fb72db4dcb55d220eae17b81cdb1"
-  integrity sha512-bLOsqxDgTqUBkzxbNlSBt8annkDpQB9NdzdTbO2ooJ+eC/IQcvDspDc058g84ejCelF7vHUx57KIOjEecOHXaw==
+  version "1.0.30001542"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001542.tgz#823ddb5aed0a70d5e2bfb49126478e84e9514b85"
+  integrity sha512-UrtAXVcj1mvPBFQ4sKd38daP8dEcXXr5sQe6QNNinaPd0iA/cxg9/l3VrSdL73jgw5sKyuQ6jNgiKO12W3SsVA==
 
 case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.114.0:
-  version "1.114.0"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.114.0.tgz#5dd391e1e10104c48b2dfc5865d8a24f8b9abde0"
-  integrity sha512-ja/pNUem8FT6QtGRHjkyerwAKDtQXOtoNXumXYql20HPY6g+wk98/4JXwQdC5kpntqUF+egjvKOOPU7hYAvj3w==
+cdk8s-cli@^1.116.0:
+  version "1.116.0"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.116.0.tgz#271473741d68199ad48082b9c982a0f06b1def4a"
+  integrity sha512-c+kiv5qHu0he1QgNQYgAyPIQLyV/ofYVomK34HtfPVOAEobAixkGZ0MDrRg5tMRRy73Na2I2CLN5iQXHYgoNDw==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
-    cdk8s "^1.61.25"
+    cdk8s "^1.62.1"
     codemaker "^1.89.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1772,10 +1772,10 @@ cdk8s-plus-25@^2.22.24:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^1.61.25:
-  version "1.61.25"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.61.25.tgz#57ac2a5f57da762536d454fd659b8cea6fa296a4"
-  integrity sha512-c51f65feITugqiaIo4vTZDMS7TkOaS/VXBqRr8BhuLEznmrIn8BO58neTcZ4BU5kNlmquAhkwSLJx0Qo9z3F5Q==
+cdk8s@^1.62.1:
+  version "1.62.1"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.62.1.tgz#4a62ad6b769a7623aae782b3663a54e03fb2f79c"
+  integrity sha512-JLKgI3E/tN1rwH2gKS8LPOrGsSg7nMHUIrj6V9RTaVVOxjOr1M0OSAuML9fzXGOKTsfXTsxHXjhKtrH4MJRM9w==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
