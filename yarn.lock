@@ -1015,7 +1015,7 @@
   dependencies:
     "@types/node" "*"
 
-"@types/http-cache-semantics@^4.0.1":
+"@types/http-cache-semantics@^4.0.2":
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/@types/http-cache-semantics/-/http-cache-semantics-4.0.2.tgz#abe102d06ccda1efdf0ed98c10ccf7f36a785a41"
   integrity sha512-FD+nQWA2zJjh4L9+pFXqWOi0Hs1ryBCfI+985NjluQ1p8EYtoLvjLOKidXBtZ4/IcxDX4o8/E8qDS3540tNliw==
@@ -1690,11 +1690,11 @@ cacheable-lookup@^7.0.0:
   integrity sha512-+qJyx4xiKra8mZrcwhjMRMUhD5NR1R8esPkzIYxX96JiecFoxAXFuz/GpR3+ev4PE1WamHip78wV0vcmPQtp8w==
 
 cacheable-request@^10.2.8:
-  version "10.2.13"
-  resolved "https://registry.yarnpkg.com/cacheable-request/-/cacheable-request-10.2.13.tgz#b7012bb4a2acdb18cb54d2dff751d766b3500842"
-  integrity sha512-3SD4rrMu1msNGEtNSt8Od6enwdo//U9s4ykmXfA2TD58kcLkCobtCDiby7kNyj7a/Q7lz/mAesAFI54rTdnvBA==
+  version "10.2.14"
+  resolved "https://registry.yarnpkg.com/cacheable-request/-/cacheable-request-10.2.14.tgz#eb915b665fda41b79652782df3f553449c406b9d"
+  integrity sha512-zkDT5WAF4hSSoUgyfg5tFIxz8XQK+25W/TLVojJTMKBaxevLBBtLxgqguAuVQB8PVW79FVjHcU+GJ9tVbDZ9mQ==
   dependencies:
-    "@types/http-cache-semantics" "^4.0.1"
+    "@types/http-cache-semantics" "^4.0.2"
     get-stream "^6.0.1"
     http-cache-semantics "^4.1.1"
     keyv "^4.5.3"
@@ -1763,10 +1763,10 @@ cdk8s-cli@^1.122.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s-plus-25@^2.22.26:
-  version "2.22.26"
-  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.26.tgz#b8b1cb51ba6143c78d5db43c4b9153de2fcc62b7"
-  integrity sha512-14CdhaILGdCnEtbturtkjh/f3nwf75GCPeuV55RFaOljzFeEqOpVXXPKRXEHuxQO6BNIw7P1tOcBXcQxKCWofA==
+cdk8s-plus-25@^2.22.27:
+  version "2.22.27"
+  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.27.tgz#6ed96ce40a431d35e5d2be3262168e33ca9fdf6d"
+  integrity sha512-c572cX89TmumBjqQXRB+kmyQ3vko5vdpyUeY0nmYK+6oyEanLsLNxJEvQvh08RLvAZoATBfTZ45mza64VN8TSg==
   dependencies:
     minimatch "^3.1.2"
   optionalDependencies:
@@ -1783,10 +1783,10 @@ cdk8s@^1.62.4:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.66.3:
-  version "2.66.3"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.66.3.tgz#77c44b30380717d2d1983070ffbe4ae3fb441c0b"
-  integrity sha512-AgwiO3loJWqI87LVRCoWV1q3sG24JYV1HQ7lf5gnONVVoaw4D9Oh5eNlJKPAM/kxqTwNj+qul/47C3ip/qPNgQ==
+cdk8s@^2.66.4:
+  version "2.66.4"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.66.4.tgz#70fa86fee71cefc820b69bfcfa26a2221f4ab1b1"
+  integrity sha512-MrEolVGQE43q/F3ttcmvObNIe4F7bpOoQxN85Q9pC5ExEGpVZGwnvDWY9SnCeEZHc82lwhsCi7VK5wRjLWEJ9A==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -5766,9 +5766,9 @@ spdx-expression-parse@^3.0.0:
     spdx-license-ids "^3.0.0"
 
 spdx-license-ids@^3.0.0:
-  version "3.0.15"
-  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.15.tgz#142460aabaca062bc7cd4cc87b7d50725ed6a4ba"
-  integrity sha512-lpT8hSQp9jAKp9mhtBU4Xjon8LPGBvLIuBiSVhMEtmLecTh2mO0tlqrAMp47tBXzMr13NJMQ2lf7RpQGLJ3HsQ==
+  version "3.0.16"
+  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.16.tgz#a14f64e0954f6e25cc6587bd4f392522db0d998f"
+  integrity sha512-eWN+LnM3GR6gPu35WxNgbGl8rmY1AEmoMDvL/QD6zYmPWgywxWqJWNdLGT+ke8dKNWrcYgYjPpG5gbTfghP8rw==
 
 spdx-license-list@^6.6.0, spdx-license-list@^6.7.0:
   version "6.7.0"
