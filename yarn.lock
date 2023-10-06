@@ -1740,21 +1740,21 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.122.0:
-  version "1.122.0"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.122.0.tgz#9703ea7c24d2cb5eb070603ecaa04cb381c8ffdc"
-  integrity sha512-giaK0fkqx7uwr/+9hGeTrXYQMCt+4wJ/JEQXRLY+E5F/I7B5iMlDtoB/WAo7Ld66ylaXWKtXKUFxWq/pHlE7Bw==
+cdk8s-cli@^1.126.0:
+  version "1.126.0"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.126.0.tgz#add05aa228a824f4f2054b80ff86f14a512491e2"
+  integrity sha512-jaoMoJqYMTL6OvutvY7+po7GJNoBJoMVFRRXMpgFC6aBwfiBxcrY02Vx8L5LkBVSCds4nSOBHo6T5T58OfvjLg==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
-    cdk8s "^1.62.4"
+    cdk8s "^1.62.5"
     codemaker "^1.89.0"
     colors "1.4.0"
     constructs "^3.4.344"
     fs-extra "^8"
     jsii-pacmak "^1.89.0"
     jsii-srcmak "^0.1.951"
-    json2jsii "^0.3.387"
+    json2jsii "^0.3.389"
     semver "^7.5.4"
     sscaff "^1.2.274"
     table "^6.8.1"
@@ -1772,10 +1772,10 @@ cdk8s-plus-25@^2.22.27:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^1.62.4:
-  version "1.62.5"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.62.5.tgz#05b750bd284166c076a5d4aab7b8959b0e581755"
-  integrity sha512-m6COgAspkg4dJYeilTIx4mRjDeGiYfe8VUKxgS7cBDy5s6PzWaCc10txnumFqqblS8aTvCCYv4WsqYyphirjoA==
+cdk8s@^1.62.5:
+  version "1.62.6"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.62.6.tgz#89d90026e62dfca31d12e01d9d8ccec982e20d63"
+  integrity sha512-sNauhX4BYY/pTUv91GatMuK+83ASDeDZXXFarX9cNRNW0lgY3t74vowN14fgJpROG1hBf5mz9o1WADf+jG9QSg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -2338,9 +2338,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.535:
-  version "1.4.542"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.542.tgz#9bfe19d8ddafc2591e4a17d04e60a5f5acc54965"
-  integrity sha512-6+cpa00G09N3sfh2joln4VUXHquWrOFx3FLZqiVQvl45+zS9DskDBTPvob+BhvFRmTBkyDSk0vvLMMRo/qc6mQ==
+  version "1.4.543"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.543.tgz#51116ffc9fba1ee93514d6a40d34676aa6d7d1c4"
+  integrity sha512-t2ZP4AcGE0iKCCQCBx/K2426crYdxD3YU6l0uK2EO3FZH0pbC4pFz/sZm2ruZsND6hQBTcDWWlo/MLpiOdif5g==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -3041,9 +3041,9 @@ globals@^11.1.0:
   integrity sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==
 
 globals@^13.19.0:
-  version "13.22.0"
-  resolved "https://registry.yarnpkg.com/globals/-/globals-13.22.0.tgz#0c9fcb9c48a2494fbb5edbfee644285543eba9d8"
-  integrity sha512-H1Ddc/PbZHTDVJSnj8kWptIRSD6AM3pK+mKytuIVF4uoBV7rshFlhhvA58ceJ5wp3Er58w6zj7bykMpYXt3ETw==
+  version "13.23.0"
+  resolved "https://registry.yarnpkg.com/globals/-/globals-13.23.0.tgz#ef31673c926a0976e1f61dab4dca57e0c0a8af02"
+  integrity sha512-XAmF0RjlrjY23MA51q3HltdlGxUpXPvg0GioKiD9X6HD28iMjo2dKC8Vqwm7lne4GNr78+RHTfliktR6ZH09wA==
   dependencies:
     type-fest "^0.20.2"
 
@@ -4299,10 +4299,10 @@ json-stable-stringify-without-jsonify@^1.0.1:
   resolved "https://registry.yarnpkg.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz#9db7b59496ad3f3cfef30a75142d2d930ad72651"
   integrity sha512-Bdboy+l7tA3OGW6FjyFHWkP5LuByj1Tk33Ljyq0axyzdk9//JSi2u3fP1QSmd1KNwq6VOKYGlAu87CisVir6Pw==
 
-json2jsii@^0.3.387:
-  version "0.3.388"
-  resolved "https://registry.yarnpkg.com/json2jsii/-/json2jsii-0.3.388.tgz#7e79f9d4433b5ad3b6ff07f49fd95a6c827afc03"
-  integrity sha512-av8yFFvEqullIxlxURfxYL9XJFCtC7fTlab9+Y0avAWQhi3EXmawNtMOCEPtzl4CyGcMv8221cPfpg6VTy45kw==
+json2jsii@^0.3.389:
+  version "0.3.389"
+  resolved "https://registry.yarnpkg.com/json2jsii/-/json2jsii-0.3.389.tgz#993ce7f48d305cd2f151f50ac695b081a3cb22ee"
+  integrity sha512-ct6j/QAj/jvGN0Oie3kd2aJ7a6UaB2m+TsDs3OjevqZEb2eE0m9iD5kjISaiIR1PNFl00kOZpILXi0cE/WIxuA==
   dependencies:
     camelcase "^6.3.0"
     json-schema "^0.4.0"
