@@ -1763,10 +1763,10 @@ cdk8s-cli@^1.126.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s-plus-25@^2.22.27:
-  version "2.22.27"
-  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.27.tgz#6ed96ce40a431d35e5d2be3262168e33ca9fdf6d"
-  integrity sha512-c572cX89TmumBjqQXRB+kmyQ3vko5vdpyUeY0nmYK+6oyEanLsLNxJEvQvh08RLvAZoATBfTZ45mza64VN8TSg==
+cdk8s-plus-25@^2.22.28:
+  version "2.22.28"
+  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.28.tgz#23c4d024f64a7a92bd6180e046a89499078273ae"
+  integrity sha512-KJAxthHSr10garv5iS+l3Gx70+kEn2EeTqCaDuFkK7bUK4HySBb3tZN7CF1hAlI0M7otmNBD5jYuvsikRFKLRw==
   dependencies:
     minimatch "^3.1.2"
   optionalDependencies:
@@ -1783,10 +1783,10 @@ cdk8s@^1.62.5:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.66.4:
-  version "2.66.4"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.66.4.tgz#70fa86fee71cefc820b69bfcfa26a2221f4ab1b1"
-  integrity sha512-MrEolVGQE43q/F3ttcmvObNIe4F7bpOoQxN85Q9pC5ExEGpVZGwnvDWY9SnCeEZHc82lwhsCi7VK5wRjLWEJ9A==
+cdk8s@^2.66.5:
+  version "2.66.5"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.66.5.tgz#01cef17cab816cdee3df89f657859a38df6e801d"
+  integrity sha512-ADXo4ZTTklWgV1F90IokjV79063JKOwoBnMPu2MLkqMUlhXHQdJENs2A/J3k2tlhtvDCUvcdRdwGZp6+gquOfg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -4839,9 +4839,9 @@ npm-check-updates@^16:
     update-notifier "^6.0.2"
 
 npm-install-checks@^6.0.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/npm-install-checks/-/npm-install-checks-6.2.0.tgz#fae55b9967b03ac309695ec96629492d5cedf371"
-  integrity sha512-744wat5wAAHsxa4590mWO0tJ8PKxR8ORZsH9wGpQc3nWTzozMAgBN/XyqYw7mg3yqLM8dLwEnwSfKMmXAjF69g==
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/npm-install-checks/-/npm-install-checks-6.3.0.tgz#046552d8920e801fa9f919cad569545d60e826fe"
+  integrity sha512-W29RiK/xtpCGqn6f3ixfRYGk+zRyr+Ew9F2E20BfXxT5/euLdA/Nm7fO7OeTGuAmTs30cpgInyJ0cYe708YTZw==
   dependencies:
     semver "^7.1.1"
 
