@@ -1745,14 +1745,14 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.130.0:
-  version "1.130.0"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.130.0.tgz#ff17d701967a265b2d0a5779651c7c19109fc745"
-  integrity sha512-KPVa3Ckr0mnQf7kZ7J1FdPEeCUbcCrMqJWXZbGR08InjMGuMfEiG7SsbzLRX+VFJY+uYskZm0PhGzXAehYXa4g==
+cdk8s-cli@^1.131.0:
+  version "1.131.0"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.131.0.tgz#e36840f0bda6f722fbaedb4f52eb63bee2d5db52"
+  integrity sha512-w1zvyHoFkK5YUHZcMXXLknKuTagUI7e9PeBFOVMknL+w9x2hmyyY4o0p8vKvH+ijoMvgRoHN67jdp7cXUWl2wA==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
-    cdk8s "^1.62.8"
+    cdk8s "^1.62.9"
     codemaker "^1.90.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1777,7 +1777,7 @@ cdk8s-plus-25@^2.22.30:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^1.62.8:
+cdk8s@^1.62.9:
   version "1.62.9"
   resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.62.9.tgz#6227299b18f2836df45dd4cb28995195f689bfe1"
   integrity sha512-2xQWtG65RCm50BTwafKeFDIrdw3bv1kUWBqxrYCEtN5HIrva+k0gMTcs90jiD4MSwhY3fHM/4NSbsX5HQCk8sA==
