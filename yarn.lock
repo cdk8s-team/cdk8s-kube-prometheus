@@ -1768,10 +1768,10 @@ cdk8s-cli@^1.131.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s-plus-25@^2.22.30:
-  version "2.22.30"
-  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.30.tgz#553b0939f7c58b4a5aa9f3f16fa3a4440a8570e6"
-  integrity sha512-kHlanCMeSfTUqNl3M42By/3QwF24HxS0DraifjFays3hFO/zq0gMUMyaVWXNeu2lbbfppwaaUap3liIlDFQSAA==
+cdk8s-plus-25@^2.22.31:
+  version "2.22.31"
+  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.31.tgz#e3c49c8e9e4411ffe8c9b05f96fc83c074374dd5"
+  integrity sha512-pzbAEyQ/1aIbgqtqlEYGkLMuMoE8hC0LEYdXC2qEKJw/aXHyaP1y8VwU94PYavwVyEa+WBfDdYCjFMzbsXBhHg==
   dependencies:
     minimatch "^3.1.2"
   optionalDependencies:
@@ -1788,10 +1788,10 @@ cdk8s@^1.62.9:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.66.8:
-  version "2.66.8"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.66.8.tgz#ed5bc983f389f5f7dc8e2716fa5a9574165bb102"
-  integrity sha512-ELWEWe84VXd06O8itktG8TtzDDNxr1wpiucuzeZnxe1YHoEM2jr+8nc1j85tWzz6Cy6miPStglQs2TZc/LxK4g==
+cdk8s@^2.66.9:
+  version "2.66.9"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.66.9.tgz#dd63ff3522648ec1174fedd047fede07066edc31"
+  integrity sha512-5/kmT+jpS8XsCwEqfYo2MfGbZg27JVXFES4Z8tv9sUjjBIvIFyZ0paJ0+gZq8VmwWcKNDwa3yIYftO8y5VNvNA==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
