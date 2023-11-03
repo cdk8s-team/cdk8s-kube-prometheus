@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "cdk8s": "^2.67.6",
-    "cdk8s-plus-25": "^2.22.48",
+    "cdk8s-plus-25": "^2.22.49",
     "constructs": "^10.3.0"
   },
   "resolutions": {
