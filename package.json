@@ -62,8 +62,8 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "cdk8s": "^2.68.1",
-    "cdk8s-plus-25": "^2.22.52",
+    "cdk8s": "^2.68.2",
+    "cdk8s-plus-25": "^2.22.53",
     "constructs": "^10.3.0"
   },
   "resolutions": {
