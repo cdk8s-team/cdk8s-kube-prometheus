@@ -1813,10 +1813,10 @@ cdk8s-cli@^1.166.0:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s-plus-25@^2.22.53:
-  version "2.22.53"
-  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.53.tgz#2d01c127346379bc5a2dc723792d56f7a1e2754b"
-  integrity sha512-Z6MmAuZ8GvCKmI9SQIF6o3uRUz0L2T8sxAbq5rAb2OXP2Xv6fE/W3efydrNfAeH0mjoqz/gHSYa13Ve9AcqOjw==
+cdk8s-plus-25@^2.22.54:
+  version "2.22.54"
+  resolved "https://registry.yarnpkg.com/cdk8s-plus-25/-/cdk8s-plus-25-2.22.54.tgz#b0fcd0e1eb859dd44d01d6017830a04663550d61"
+  integrity sha512-ZYeuv3aw5E/SviEP1r49H0CauzacJAkSj3f9InMmI0PlMJNNDrXxly6OxnNxP+hnUXCRMo+YjZMr+tBz4SjaNA==
   dependencies:
     minimatch "^3.1.2"
   optionalDependencies:
