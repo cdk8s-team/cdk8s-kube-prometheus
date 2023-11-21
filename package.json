@@ -43,7 +43,7 @@
     "@types/node": "^16",
     "@typescript-eslint/eslint-plugin": "^6",
     "@typescript-eslint/parser": "^6",
-    "cdk8s-cli": "^1.178.0",
+    "cdk8s-cli": "^1.179.0",
     "constructs": "^10.0.0",
     "eslint": "^8",
     "eslint-import-resolver-typescript": "^2.7.1",
