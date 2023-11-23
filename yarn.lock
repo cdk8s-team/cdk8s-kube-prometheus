@@ -1790,21 +1790,21 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.179.0:
-  version "1.179.0"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.179.0.tgz#b1a30a5226ba170a05c61e90357908707ca24172"
-  integrity sha512-caOMRfgYrBcxyWEj0zno8Bj5l9cNWU+MNt57nzY+vUuxemQEertqcQjJ+9ksYkaJxsMaUhMFEW4dBYmezj6FpA==
+cdk8s-cli@^1.180.0:
+  version "1.180.0"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.180.0.tgz#1cdf00811c520810db7eb0f12fdb37326a1cb6b3"
+  integrity sha512-x8KUHuEfE7fB7vts76qUDxY8vC7l9ECRxJNDSf6v1yG1JwPuGM0Zju+cFvCjUfjrqHXlbOyMHiBpeiQWtFWPVA==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
-    cdk8s "^1.63.15"
+    cdk8s "^1.63.16"
     codemaker "^1.92.0"
     colors "1.4.0"
     constructs "^3.4.344"
     fs-extra "^8"
     jsii-pacmak "^1.92.0"
-    jsii-srcmak "^0.1.972"
-    json2jsii "^0.4.0"
+    jsii-srcmak "^0.1.974"
+    json2jsii "^0.4.1"
     semver "^7.5.4"
     sscaff "^1.2.274"
     table "^6.8.1"
@@ -1822,10 +1822,10 @@ cdk8s-plus-25@^2.22.64:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^1.63.15:
-  version "1.63.16"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.16.tgz#0a210b6c6eadc406dacac71deead542c530cfc01"
-  integrity sha512-guYi9bcVWLXwS6YgVmiAggtarFN96l20e6PolddIeZGJO705i+LRmauEam2fdSX40jNzNgs7zVFVVKcV7+onJg==
+cdk8s@^1.63.16:
+  version "1.63.17"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.17.tgz#44895a0e70dd7e49495881f465aa9c95fa8a8ae8"
+  integrity sha512-lBwuf5ecAxtTCcjurqW/AHH6BmAkqoTz0CnST/1CR23MgyTkf2SAnr4d+TrruxUIbcYWP5PxGsZ0pQ/S/L9YYg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -2388,9 +2388,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.535:
-  version "1.4.590"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.590.tgz#85a428fbabb77265a4804040837ed4f2538e3300"
-  integrity sha512-hohItzsQcG7/FBsviCYMtQwUSWvVF7NVqPOnJCErWsAshsP/CR2LAXdmq276RbESNdhxiAq5/vRo1g2pxGXVww==
+  version "1.4.592"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.592.tgz#1ffd49ba3da3da3077ea20014b066c910d50c913"
+  integrity sha512-D3NOkROIlF+d5ixnz7pAf3Lu/AuWpd6AYgI9O67GQXMXTcCP1gJQRotOq35eQy5Sb4hez33XH1YdTtILA7Udww==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -4266,10 +4266,10 @@ jsii-rosetta@1.x, jsii-rosetta@^1.52.1, jsii-rosetta@^1.92.0:
     workerpool "^6.5.1"
     yargs "^16.2.0"
 
-jsii-srcmak@^0.1.972:
-  version "0.1.973"
-  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.973.tgz#06b4e7a211855c3e225504bbf0359dae7d81b97c"
-  integrity sha512-Czk/x2dkf3DeXQzlzcb+b702CRQGgYq/EQUeT7QJ2STZgYLYLpT42+1aBIYnJkhOysKk25YyMg1iK17efGkNKA==
+jsii-srcmak@^0.1.974:
+  version "0.1.974"
+  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.974.tgz#662a4d7642c304a48920952325f79f5adb3a93c2"
+  integrity sha512-QLCc3WZowp0QMWmRspzx7NPJ7Satw6X6TCdAPeX7n08Dj/VTJ2oebp85LB5k7HzoGJj2FCWl5rWv1RgsTmoCfQ==
   dependencies:
     fs-extra "^9.1.0"
     jsii "~5.2.32"
@@ -4357,10 +4357,10 @@ json-stable-stringify-without-jsonify@^1.0.1:
   resolved "https://registry.yarnpkg.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz#9db7b59496ad3f3cfef30a75142d2d930ad72651"
   integrity sha512-Bdboy+l7tA3OGW6FjyFHWkP5LuByj1Tk33Ljyq0axyzdk9//JSi2u3fP1QSmd1KNwq6VOKYGlAu87CisVir6Pw==
 
-json2jsii@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/json2jsii/-/json2jsii-0.4.0.tgz#62f245385da1a8de86be90eeef132e798e87788d"
-  integrity sha512-4I5ip2aG7e7LN1pa1aiFgUYAGXmhq4Ggbk6KJRXlaAdewGfYyOK2YlpUI0Dqpfs84kuEsbSTwDO4P6oEs2YEdQ==
+json2jsii@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/json2jsii/-/json2jsii-0.4.1.tgz#501967dedb95e28a84e17dba81d03919ee9ef089"
+  integrity sha512-oXvOm6LeHHjzuWJTyHsxbHt5UyUNkQYaq/84ir5QMF2AyfvWfYoPqWL5uSaaRepLOKxIMn9DADlO+G9SQ//KCA==
   dependencies:
     camelcase "^6.3.0"
     json-schema "^0.4.0"
