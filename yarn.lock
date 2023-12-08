@@ -1482,10 +1482,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.2:
-  version "1.195.2"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.2.tgz#80618f74850b6a5b40a334773950ef2aa0124c35"
-  integrity sha512-Btlff9vqvln9rq8N2/DqMyWxii0VlttKdT4+NE8K5cHQ8cr6M5rAE36+BMKUY/IoMZEMuDj/wpZ6aRatH50HMQ==
+cdk8s-cli@^1.195.3:
+  version "1.195.3"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.3.tgz#1cba8c8c0c29942c106697ff9ea498e5df3e4dab"
+  integrity sha512-o0BWWeLwosqGLITYFLd7CiLSEr1LaoQxZ4BaGHKDSnBLjOdOiFAR1fw2+MnWxdc5tUsh5icSjTKlcgaa/Z6vuw==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
@@ -1495,7 +1495,7 @@ cdk8s-cli@^1.195.2:
     constructs "^3.4.344"
     fs-extra "^8"
     jsii-pacmak "^1.92.0"
-    jsii-srcmak "^0.1.987"
+    jsii-srcmak "^0.1.988"
     json2jsii "^0.4.1"
     semver "^7.5.4"
     sscaff "^1.2.274"
@@ -1515,9 +1515,9 @@ cdk8s-plus-25@^2.22.67:
     backport "8.5.0"
 
 cdk8s@^1.63.21:
-  version "1.63.21"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.21.tgz#c68bb8c980edd2f2d842585eac8794193e1da0a5"
-  integrity sha512-lQYP3B7WNo6Af4hSaVDJlzIIA3XLVZvTZrn/yf0jgJJ58aOgsuU2dw4gNyNHXv1mTQ3amvxw5lEoLDKRK1qeeA==
+  version "1.63.22"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.22.tgz#f4a7beb259707396ea2c339050f6f0238deff7fc"
+  integrity sha512-UAozm9iTUV8g3pPsJ+YDQUVDSvXYoTzw3ELWPQApyFff19smmWJrcAwYFitaIGWgZQc5xJvzP7yV/BaHeMfv6w==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -1981,9 +1981,9 @@ downlevel-dts@^0.11.0:
     typescript next
 
 electron-to-chromium@^1.4.601:
-  version "1.4.607"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.607.tgz#340cc229b504966413716c6eae67d0f3d3702ff0"
-  integrity sha512-YUlnPwE6eYxzwBnFmawA8LiLRfm70R2aJRIUv0n03uHt/cUzzYACOogmvk8M2+hVzt/kB80KJXx7d5f5JofPvQ==
+  version "1.4.608"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.608.tgz#ff567c51dde4892ae330860c7d9f19571e9e1d69"
+  integrity sha512-J2f/3iIIm3Mo0npneITZ2UPe4B1bg8fTNrFjD8715F/k1BvbviRuqYGkET1PgprrczXYTHFvotbBOmUp6KE0uA==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -3590,10 +3590,10 @@ jsii-rosetta@1.x, jsii-rosetta@^1.52.1, jsii-rosetta@^1.92.0:
     workerpool "^6.5.1"
     yargs "^16.2.0"
 
-jsii-srcmak@^0.1.987:
-  version "0.1.988"
-  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.988.tgz#d478bd9bd1e41d0dcc35e3e368d01926629cde9c"
-  integrity sha512-igNS8sTAzBhX+twerHdX6o7SaJLT3F07YDhu43rLJzjkYhsDBeipIfXpJ5TGHyCMEARzmAPj6ZzEeK2quaQI7g==
+jsii-srcmak@^0.1.988:
+  version "0.1.989"
+  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.989.tgz#c05d7e118254a6ab4dbffae6b83278bef4ed17ea"
+  integrity sha512-nBWxeL+ZZ/5WaAjh7DMFh5dpyS+KRE1Pe14v1cc2K4H8YDePyDuUn/rVTq2rg8coDkvRW/e6iTdN6HP/y7Zx+g==
   dependencies:
     fs-extra "^9.1.0"
     jsii "~5.2.38"
