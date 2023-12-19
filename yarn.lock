@@ -1525,10 +1525,10 @@ cdk8s@^1.63.24:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.68.18:
-  version "2.68.18"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.68.18.tgz#87c601cb5b2d3be960ad0a08098e6f292934b1b1"
-  integrity sha512-YQk192V1L2CjQcOw3hft3HwC/2GVHBxqWpMtYzYc3mMhK8Qe7Ajh3K8bcciafWjGSDlRPixOxYOOtk4wSeuVnQ==
+cdk8s@^2.68.19:
+  version "2.68.19"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.68.19.tgz#ffee411e79a254b22bffe97d821deb683979ff8d"
+  integrity sha512-+Pf9FVhe5LE58fkDRcV933/+3Ky3iGNCK7IfYqQHdvawPeyhGstodfWTuAY3AkgdQ1SZjcbahzwR4YARasDWBg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
@@ -2329,9 +2329,9 @@ fast-levenshtein@^2.0.6:
   integrity sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==
 
 fastq@^1.6.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/fastq/-/fastq-1.15.0.tgz#d04d07c6a2a68fe4599fea8d2e103a937fae6b3a"
-  integrity sha512-wBrocU2LCXXa+lWBt8RoIRD89Fi8OdABODa/kEnyeyjS5aZO5/GNvI5sEINADqP/h8M29UHTHUb53sUu5Ihqdw==
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/fastq/-/fastq-1.16.0.tgz#83b9a9375692db77a822df081edb6a9cf6839320"
+  integrity sha512-ifCoaXsDrsdkWTtiNJX5uzHDsrck5TzfKKDcuFFTIrrc/BS076qgEIfoIy1VeZqViznfKiysPYTh/QeHtnIsYA==
   dependencies:
     reusify "^1.0.4"
 
