@@ -1483,10 +1483,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.32:
-  version "1.195.32"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.32.tgz#d1a1b4de6e8ca31ea02a97da78297e29f31410b6"
-  integrity sha512-rRpYImz0F4cjq4qmR/dKxHs6qBeSgW0s5v2VJBwFdk0ia95Zu0uKizyzk8TUrO2jcvg4rvL3LJMhWrnpOoTCnQ==
+cdk8s-cli@^1.195.33:
+  version "1.195.33"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.33.tgz#eecd575ab83a483dd0219d24a7eba99041889125"
+  integrity sha512-fFX/9PxZJD0NDxfnyCep+sOIYtN0lVEPo4qjsNrNIYbRe5PbRKuY8COQveGhAU+GA5kIWKInR4FwcdMWonFfWg==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
@@ -1496,7 +1496,7 @@ cdk8s-cli@^1.195.32:
     constructs "^3.4.344"
     fs-extra "^8"
     jsii-pacmak "^1.94.0"
-    jsii-srcmak "^0.1.1009"
+    jsii-srcmak "^0.1.1011"
     json2jsii "^0.4.3"
     semver "^7.5.4"
     sscaff "^1.2.274"
@@ -3591,10 +3591,10 @@ jsii-rosetta@1.x, jsii-rosetta@^1.52.1, jsii-rosetta@^1.94.0:
     workerpool "^6.5.1"
     yargs "^16.2.0"
 
-jsii-srcmak@^0.1.1009:
-  version "0.1.1010"
-  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.1010.tgz#4949a6bed11aa1f13065b05c4dbf5d5a68a47507"
-  integrity sha512-rdeVlJUqxJsP0lvQr6Q2Ghu2Ujhvthx4cTpTWXOgUTKQX/L9BvdcU1tSBVKTyZ5SB19ffnH4rxcjhekLZ5lYRQ==
+jsii-srcmak@^0.1.1011:
+  version "0.1.1011"
+  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.1011.tgz#5b814c88d750cf6dc9882f180004bcca252d0344"
+  integrity sha512-8OcSSgpC9NcNsqk6LK9IVKK8MwMccrRcwTLswkJJwqbKOPhf5bmqqseh35OEuxzRQajmqa2yozBgVdg5CvRj0A==
   dependencies:
     fs-extra "^9.1.0"
     jsii "~5.3.7"
