@@ -4221,10 +4221,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-projen@^0.79.3:
-  version "0.79.3"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.79.3.tgz#385761af74b8df15f58eef21022eb7d3645b2690"
-  integrity sha512-nmYW1YXFNdZNNDlfHsT4sMfE5vMgMbpG061RT+gtuvGkhm+6nYd8+kWo6xk+2J/egoNvXyS5kEbh4fFc41I5hA==
+projen@^0.79.6:
+  version "0.79.6"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.79.6.tgz#055da1e38c2b8b77db02e8b7a1af1a21d75ae3c4"
+  integrity sha512-GzMrUAxEj61LcaGBDfwOF20dIQPv1WOP9ikjXBI3xGd81kuUi2EaPnsHitDUML9Huy+iSThmMRDvve0t1InuTw==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
