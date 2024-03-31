@@ -1487,9 +1487,9 @@ camelcase@^6.2.0, camelcase@^6.3.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001587:
-  version "1.0.30001600"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001600.tgz#93a3ee17a35aa6a9f0c6ef1b2ab49507d1ab9079"
-  integrity sha512-+2S9/2JFhYmYaDpZvo0lKkfvuKIglrx68MwOBqMGHhQsNkLjB5xtc/TGoEPs+MxjSyN/72qer2g97nzR641mOQ==
+  version "1.0.30001603"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001603.tgz#605046a5bdc95ba4a92496d67e062522dce43381"
+  integrity sha512-iL2iSS0eDILMb9n5yKQoTBim9jMZ0Yrk8g0N9K7UzYyWnfIKzXBZD5ngpM37ZcL/cv0Mli8XtVMRYMQAfFpi5Q==
 
 case@^1.6.3:
   version "1.6.3"
@@ -1529,9 +1529,9 @@ cdk8s-plus-25@^2.22.79:
     backport "8.5.0"
 
 cdk8s@^1.63.50:
-  version "1.63.51"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.51.tgz#fdf728e9f2d50944ad798d2b4438173818d74896"
-  integrity sha512-XA9kriUL3M8NSXRel9FFNpgvnPHZwjguKbUoY3NIMkdMg0yUAROHO6fyV8Cn5pU2LCWOZlQhaVv9KKlNDulGcA==
+  version "1.63.59"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.59.tgz#c84ea14551d7d839c9cba87fd1aa767407eab837"
+  integrity sha512-eP2ZfPQIjGeJhxJXpm4E4GYYPY+/jsMLcqLnHoZ9nMWV7NxSNFqxW9BzTtyJbwms8xsxkJ2B7Yhfh3o13Rz/TA==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.2"
