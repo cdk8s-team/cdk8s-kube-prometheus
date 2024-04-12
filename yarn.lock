@@ -1495,23 +1495,23 @@ camelcase@^6.2.0, camelcase@^6.3.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001587:
-  version "1.0.30001608"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001608.tgz#7ae6e92ffb300e4b4ec2f795e0abab456ec06cc0"
-  integrity sha512-cjUJTQkk9fQlJR2s4HMuPMvTiRggl0rAVMtthQuyOlDWuqHXqN8azLq+pi8B2TjwKJ32diHjUqRIKeFX4z1FoA==
+  version "1.0.30001609"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001609.tgz#fc34fad75c0c6d6d6303bdbceec2da8f203dabd6"
+  integrity sha512-JFPQs34lHKx1B5t1EpQpWH4c+29zIyn/haGsbpfq3suuV9v56enjFt23zqijxGTMwy1p/4H2tjnQMY+p1WoAyA==
 
 case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.80:
-  version "1.195.80"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.80.tgz#559ce30849cc6048d551d5bbadd29f7913b20eb3"
-  integrity sha512-Ae/zcYLklxGpu+ezsKH2xTGNBt7kp755KF+F7HOTiJlz4Oe7RMdh78Fq2T9QLgSV4lJ8SRwK8T/u59mG4TNNpw==
+cdk8s-cli@^1.195.81:
+  version "1.195.81"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.81.tgz#9cf1895339aa19b89e65c6c50622307e7fbac2da"
+  integrity sha512-pL2jsuN02QkK5ZCHf5OlKgpg4HadGjTwWB9bxgcEzPUv7q6jrmZQnG1YwVAoB9CgL+4W5D3jIXmMGo4kfmOdiA==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
-    cdk8s "^1.63.65"
+    cdk8s "^1.63.66"
     codemaker "^1.97.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1536,10 +1536,10 @@ cdk8s-plus-25@^2.22.79:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^1.63.65:
-  version "1.63.65"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.65.tgz#3dc9848195ad35f3cc72c7b1cf2584c3a35e4557"
-  integrity sha512-+Ov9gqRD02WicGU1bbGZliqHQ4KFaU0hB5j5dE27eJ5owFuCxoCpufGUYUpWaaJAzWEjNCQlYXLzZvdmr2cFiA==
+cdk8s@^1.63.66:
+  version "1.63.66"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.66.tgz#bdf73d2cede1c62eef54976ab15a94034eb990f9"
+  integrity sha512-2w8BJPoHcPfaGfLZG6ucuWMNYqMgLtjIhb4+UCxtgst9Pt7t5Yhw0CSd3Y8cTz5bPqNttQ20NAaDVPnJ4gubsA==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.6"
@@ -2030,9 +2030,9 @@ downlevel-dts@^0.11.0:
     typescript next
 
 electron-to-chromium@^1.4.668:
-  version "1.4.733"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.733.tgz#708d51ce01a7ed3b401d5ced85e9f5d504fd4217"
-  integrity sha512-gUI9nhI2iBGF0OaYYLKOaOtliFMl+Bt1rY7VmEjwxOxqoYLub/D9xmduPEhbw2imE6gYkJKhIE5it+KE2ulVxQ==
+  version "1.4.735"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.735.tgz#c32914ef2cd0a3a545a3def841d253a31a8a93be"
+  integrity sha512-pkYpvwg8VyOTQAeBqZ7jsmpCjko1Qc6We1ZtZCjRyYbT5v4AIUKDy5cQTRotQlSSZmMr8jqpEt6JtOj5k7lR7A==
 
 emittery@^0.8.1:
   version "0.8.1"
