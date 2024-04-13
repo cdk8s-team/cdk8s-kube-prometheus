@@ -1504,10 +1504,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.81:
-  version "1.195.81"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.81.tgz#9cf1895339aa19b89e65c6c50622307e7fbac2da"
-  integrity sha512-pL2jsuN02QkK5ZCHf5OlKgpg4HadGjTwWB9bxgcEzPUv7q6jrmZQnG1YwVAoB9CgL+4W5D3jIXmMGo4kfmOdiA==
+cdk8s-cli@^1.195.82:
+  version "1.195.82"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.82.tgz#94af540de560e908ebf4e89a51fe42360b630a28"
+  integrity sha512-HyZCzEP0dJ7KslBcbsSmgvccRYDLRhOzzoOZCD6saYB0m/NoH9gnvBfIndZAGkGPYKEVV51ilOCmXY6joTTMSQ==
   dependencies:
     "@types/node" "^16"
     ajv "^8.12.0"
@@ -2030,9 +2030,9 @@ downlevel-dts@^0.11.0:
     typescript next
 
 electron-to-chromium@^1.4.668:
-  version "1.4.735"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.735.tgz#c32914ef2cd0a3a545a3def841d253a31a8a93be"
-  integrity sha512-pkYpvwg8VyOTQAeBqZ7jsmpCjko1Qc6We1ZtZCjRyYbT5v4AIUKDy5cQTRotQlSSZmMr8jqpEt6JtOj5k7lR7A==
+  version "1.4.736"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.736.tgz#ecb4348f4d5c70fb1e31c347e5bad6b751066416"
+  integrity sha512-Rer6wc3ynLelKNM4lOCg7/zPQj8tPOCB2hzD32PX9wd3hgRRi9MxEbmkFCokzcEhRVMiOVLjnL9ig9cefJ+6+Q==
 
 emittery@^0.8.1:
   version "0.8.1"
