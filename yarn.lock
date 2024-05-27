@@ -1481,19 +1481,19 @@ camelcase@^6.2.0, camelcase@^6.3.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001587:
-  version "1.0.30001621"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001621.tgz#4adcb443c8b9c8303e04498318f987616b8fea2e"
-  integrity sha512-+NLXZiviFFKX0fk8Piwv3PfLPGtRqJeq2TiNoUff/qB5KJgwecJTvCXDpmlyP/eCI/GUEmp/h/y5j0yckiiZrA==
+  version "1.0.30001623"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001623.tgz#e982099dcb229bb6ab35f5aebe2f8d79ccf6e8a8"
+  integrity sha512-X/XhAVKlpIxWPpgRTnlgZssJrF0m6YtRA0QDWgsBNT12uZM6LPRydR7ip405Y3t1LamD8cP2TZFEDZFBf5ApcA==
 
 case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.113:
-  version "1.195.113"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.113.tgz#cd1a2ba23e7a363ac61f5d51058b54e0ee0d2b4f"
-  integrity sha512-6dv02Rw/kl7B0t0wAyqdQUEmpOD8OfxEHLmPKICU+1O+i70pLojYdo/yVgU0jx4WTdRMpC02t2Z2TAzPtz3wBw==
+cdk8s-cli@^1.195.114:
+  version "1.195.114"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.114.tgz#d44e5702b8463846c4aec2d2cff29fef4466c30c"
+  integrity sha512-ZLz6h1Ei1g1lgJapcL5iUPDQtbiLCpo8LOvnjoFszgZoUAnMMcO3fDa8hIY0EQpTNFOX4YCpD4fIEAF3HkYX0A==
   dependencies:
     "@types/node" "^16"
     ajv "^8.14.0"
@@ -1503,8 +1503,8 @@ cdk8s-cli@^1.195.113:
     constructs "^3.4.344"
     fs-extra "^8"
     jsii-pacmak "^1.98.0"
-    jsii-rosetta "^5.4.19"
-    jsii-srcmak "^0.1.1134"
+    jsii-rosetta "^5.4.20"
+    jsii-srcmak "^0.1.1135"
     json2jsii "^0.4.3"
     semver "^7.6.2"
     sscaff "^1.2.274"
@@ -3675,10 +3675,10 @@ jsii-rosetta@1.x, jsii-rosetta@^1.52.1:
     workerpool "^6.5.1"
     yargs "^16.2.0"
 
-jsii-rosetta@^5.4.19:
-  version "5.4.19"
-  resolved "https://registry.yarnpkg.com/jsii-rosetta/-/jsii-rosetta-5.4.19.tgz#be5a73e873786ae30197333ba92408fadd556fc2"
-  integrity sha512-LEH/weiioP9vf4mWhqwfVSU1kRdWlC6d7In0D2HR9vNwENmzG9kx+Jy6WonUT9HsEos/RmqTxI35CRGHQ+R7Ag==
+jsii-rosetta@^5.4.19, jsii-rosetta@^5.4.20:
+  version "5.4.20"
+  resolved "https://registry.yarnpkg.com/jsii-rosetta/-/jsii-rosetta-5.4.20.tgz#ed2df46aa3d48c6bac14db1d187eb618abc16ea1"
+  integrity sha512-OfZMOMobZB8MwTaiYYn/Iqw2SSWBPut9lJ/IfXK8lbP8JOBk4xJp/p2V5G44qShQQJqp6NS5Nv438DZ/0/wsvA==
   dependencies:
     "@jsii/check-node" "1.98.0"
     "@jsii/spec" "^1.98.0"
@@ -3694,10 +3694,10 @@ jsii-rosetta@^5.4.19:
     workerpool "^6.5.1"
     yargs "^17.7.2"
 
-jsii-srcmak@^0.1.1134:
-  version "0.1.1134"
-  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.1134.tgz#f8d91ec8d98b2099a4578ef108adba69b8b80e5f"
-  integrity sha512-TDJLS4PghU/ST3HpiHf8iBoWmiVqoqLjOlZTSqzd/aOa7+A9z92F04/kQwhMhWHdZ60sif5lbQiBqDFYNvZmjQ==
+jsii-srcmak@^0.1.1135:
+  version "0.1.1135"
+  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.1135.tgz#7794bb4a75108050dee5c6a453f424446d577320"
+  integrity sha512-wCs4VbOlLhsWoKC7LPkh0G6aN508k6nJnBgOcYh+AVGGRdmZYDN3/2cphttDpcmGM0aG5eUzoSwLP9IkYm+y/g==
   dependencies:
     fs-extra "^9.1.0"
     jsii "~5.4.18"
