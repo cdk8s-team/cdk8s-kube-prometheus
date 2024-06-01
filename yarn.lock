@@ -1534,10 +1534,10 @@ cdk8s@^1.63.79:
   optionalDependencies:
     backport "8.5.0"
 
-cdk8s@^2.68.72:
-  version "2.68.72"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.68.72.tgz#87b5be4fb0ca0aab9d2830cfeceb0ef06d459aac"
-  integrity sha512-UvHNvLv0UfTMAHf/NRXAxqvyVu7MJXsF1NRTxquO+ikWESzrwhf7QmXBVmuePm2JO1kWLjLEUVBO9RazvyD9Jw==
+cdk8s@^2.68.73:
+  version "2.68.73"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.68.73.tgz#080eafbe41d79f237fd89e4992e5a0125ed8ac96"
+  integrity sha512-4eayq7AFK3M9bsFMuH1Dm4Fc/McTY2hQKh6NIabodUgD4sHhZC+YcoMW6pzoXPGZcT+IiMKlbfs6yW0aLSyLQg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.6"
