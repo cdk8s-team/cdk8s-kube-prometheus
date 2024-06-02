@@ -4323,10 +4323,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-projen@^0.82.2:
-  version "0.82.2"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.82.2.tgz#5d450a919e598dcb240655531d93b0b77248b353"
-  integrity sha512-FMS73lMtFukF9v1LexWu+LLCHSlPrVj691lZ5wJyJ2HULBVs0HPyVOIS0CZhPfad9E/sS0jf0ibw+TcL/rbXKg==
+projen@^0.82.3:
+  version "0.82.3"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.82.3.tgz#372ff7b360178f34f76156647ee66a7195334ba8"
+  integrity sha512-JLDIFazUjBJcJcq8EqPDZejZsMNq9VKt7CgWDJmERjXUrWoeDP4qHb5Dr8X+6lgwrxFEQ2eF//vOlOY3/A5jxg==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
@@ -5433,10 +5433,15 @@ yallist@^3.0.2:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-3.1.1.tgz#dbb7daf9bfd8bac9ab45ebf602b8cbad0d5d08fd"
   integrity sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g==
 
-yaml@2.4.2, yaml@^2.2.2:
+yaml@2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.4.2.tgz#7a2b30f2243a5fc299e1f14ca58d475ed4bc5362"
   integrity sha512-B3VqDZ+JAg1nZpaEmWtTXUlBneoGx6CPM9b0TENK6aoSu5t73dItudwdgmi6tHlIZZId4dZ9skcAQ2UbcyAeVA==
+
+yaml@^2.2.2:
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.4.3.tgz#0777516b8c7880bcaa0f426a5410e8d6b0be1f3d"
+  integrity sha512-sntgmxj8o7DE7g/Qi60cqpLBA3HG3STcDA0kO+WfB05jEKhZMbY7umNm2rBpQvsmZ16/lPXCJGW2672dgOUkrg==
 
 yargs-parser@20.x, yargs-parser@^20.2.2:
   version "20.2.9"
