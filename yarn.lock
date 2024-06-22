@@ -1521,10 +1521,10 @@ cdk8s@^1.63.87:
     follow-redirects "^1.15.6"
     yaml "2.4.5"
 
-cdk8s@^2.68.80:
-  version "2.68.80"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.68.80.tgz#998e917d8b9c371d52a81070a0d048788a6e723b"
-  integrity sha512-vbvC9uBaQ2n8Q3EgWHDq4wDljCCacNzzUcTQ40kRUX57D5KVLtHdQvNVCdV536P4jAA7DHBhYvPl8w3EUbZ/1Q==
+cdk8s@^2.68.81:
+  version "2.68.81"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.68.81.tgz#bb696a9d6c452bbe3539069a0faf3218ab41d72f"
+  integrity sha512-044RW04hXVP6rPxd4j2IRACN1rPcxc6YpT2pdycbE0WKRg4ZYPDAkTeknq+/ESiBrXF4xsIuqDsnLQ3QClqPFw==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.6"
@@ -2679,9 +2679,9 @@ graphql-tag@^2.12.6:
     tslib "^2.1.0"
 
 graphql@^16.5.0:
-  version "16.8.2"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.8.2.tgz#54771c7ff195da913f5e70af8044a026d32eca2a"
-  integrity sha512-cvVIBILwuoSyD54U4cF/UXDh5yAobhNV/tPygI4lZhgOIJQE/WLWC4waBRb4I6bDVYb3OVx3lfHbaQOEoUD5sg==
+  version "16.9.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.9.0.tgz#1c310e63f16a49ce1fbb230bd0a000e99f6f115f"
+  integrity sha512-GGTKBX4SD7Wdb8mqeDLni2oaRGYQWjWHGKPQ24ZMnUtKfcsVoiv4uX8+LJr1K6U5VW2Lu1BwJnj7uiori0YtRw==
 
 has-bigints@^1.0.1, has-bigints@^1.0.2:
   version "1.0.2"
