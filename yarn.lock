@@ -1481,10 +1481,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.154:
-  version "1.195.154"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.154.tgz#39248fb4e8fa2ffd3d2c0ac8d7f8aae589e9a50e"
-  integrity sha512-XgQB+c0OlP7RUz9ErK7TgXWFNPki2Ay529UjOCA5G/IVDhE+gNq6zFL2aFw7VMF9wtS7fXU7rEUd/OAhNm4OZw==
+cdk8s-cli@^1.195.155:
+  version "1.195.155"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.155.tgz#e600c0d425ed2b3b5c09be708bee761d20628472"
+  integrity sha512-BlJE7Cm1FHE05wqZqjEAbZ5hCUyi20p+FowxNfPY1hMA0K3l79q9x5fyozZ9wZIwe/Vyt+kdUi5+9AS+slscjw==
   dependencies:
     "@types/node" "^16"
     ajv "^8.16.0"
@@ -1495,7 +1495,7 @@ cdk8s-cli@^1.195.154:
     fs-extra "^8"
     jsii-pacmak "^1.101.0"
     jsii-rosetta "^5.4.25"
-    jsii-srcmak "^0.1.1178"
+    jsii-srcmak "^0.1.1179"
     json2jsii "^0.4.4"
     semver "^7.6.2"
     sscaff "^1.2.274"
@@ -2002,9 +2002,9 @@ downlevel-dts@^0.11.0:
     typescript next
 
 electron-to-chromium@^1.4.820:
-  version "1.4.823"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.823.tgz#38587f7aa55bed14930f04091dfc65c39a3d8bd7"
-  integrity sha512-4h+oPeAiGQOHFyUJOqpoEcPj/xxlicxBzOErVeYVMMmAiXUXsGpsFd0QXBMaUUbnD8hhSfLf9uw+MlsoIA7j5w==
+  version "1.4.825"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.825.tgz#2d9c3d1eb81a67ecea0c06bcf70740b00ba52718"
+  integrity sha512-OCcF+LwdgFGcsYPYC5keEEFC2XT0gBhrYbeGzHCx7i9qRFbzO/AqTmc/C/1xNhJj+JA7rzlN7mpBuStshh96Cg==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -3664,10 +3664,10 @@ jsii-rosetta@^5.4.25:
     workerpool "^6.5.1"
     yargs "^17.7.2"
 
-jsii-srcmak@^0.1.1178:
-  version "0.1.1178"
-  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.1178.tgz#b466cd64253ef2033610098d2825c38ca58222ba"
-  integrity sha512-PiUm4ezqAgj23fwGf1EAubaJWjYC2x0WoKkiin0+peA7maTTvDBt/M3nuqTErCvfnc9vRdsUfBN1c/RO1Mrarw==
+jsii-srcmak@^0.1.1179:
+  version "0.1.1179"
+  resolved "https://registry.yarnpkg.com/jsii-srcmak/-/jsii-srcmak-0.1.1179.tgz#309edb9803a2e7d3c943c62f47e8253d61e20979"
+  integrity sha512-GgkZvbovUp/HAn3QVdA3/gRwdSPoZ6BIbn2BeCIcpwFESexPmbGjXP8IAjv6mWuSrTTVxSjgi4SzUf7/b9utqg==
   dependencies:
     fs-extra "^9.1.0"
     jsii "~5.4.26"
@@ -4055,9 +4055,9 @@ npm-run-path@^4.0.1:
     path-key "^3.0.0"
 
 nwsapi@^2.2.0:
-  version "2.2.10"
-  resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.2.10.tgz#0b77a68e21a0b483db70b11fad055906e867cda8"
-  integrity sha512-QK0sRs7MKv0tKe1+5uZIQk/C8XGza4DAnztJG8iD+TpJIORARrCxczA738awHrZoHeTjSSoHqao2teO0dC/gFQ==
+  version "2.2.12"
+  resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.2.12.tgz#fb6af5c0ec35b27b4581eb3bbad34ec9e5c696f8"
+  integrity sha512-qXDmcVlZV4XRtKFzddidpfVP4oMSGhga+xdMc25mv8kaLUHtgzCDhUxkrN8exkGdTlLNaXj7CV3GtON7zuGZ+w==
 
 object-inspect@^1.13.1:
   version "1.13.2"
