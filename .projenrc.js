@@ -8,7 +8,7 @@ const project = new Cdk8sTeamJsiiProject({
   devDeps: ['cdk8s-cli', 'ts-node', '@cdk8s/projen-common'],
   deps: [
     'cdk8s',
-    'cdk8s-plus-25',
+    'cdk8s-plus-28',
     'constructs',
   ],
 });
