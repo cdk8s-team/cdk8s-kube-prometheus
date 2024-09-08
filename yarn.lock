@@ -1281,14 +1281,14 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.198:
-  version "1.195.198"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.198.tgz#3933905766a2c20bf4dd479766b3ad81c68abd66"
-  integrity sha512-itzO4rk3z/ZGdkHO2gLRwvaQuvjnpeGE5UpJLOuP4GY0Yq1NLQnM/LI/TenMBilRg66Zn48OtmrA2dVDkeCAFw==
+cdk8s-cli@^1.195.199:
+  version "1.195.199"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.199.tgz#aa7fdccd732f0e59e3ed7565965a8a5e4e0be502"
+  integrity sha512-jQXs1R8Jh3UP5ljhZ4C9s88bEcqVopBYKnAArhti1P9EhA3JSO8UQVo/syjtz8mW0qXuvVGDWvh+nF6Of8VoKQ==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
-    cdk8s "^1.63.112"
+    cdk8s "^1.63.113"
     codemaker "^1.103.1"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1310,7 +1310,7 @@ cdk8s-plus-28@^2.5.5:
   dependencies:
     minimatch "^3.1.2"
 
-cdk8s@^1.63.112:
+cdk8s@^1.63.113:
   version "1.63.113"
   resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.113.tgz#dfa2be8f16d45ec043459b4f8abfdf7354b4b48f"
   integrity sha512-YjtyGP7ZgyXmZ9YE7cruu19P0M9SDOwjlzZQQ77i79YT6WuILJ4CoyJybqNf29x7MNWU4S5O8Ha7QbJkCwqBvQ==
@@ -1356,9 +1356,9 @@ ci-info@^3.2.0:
   integrity sha512-NIxF55hv4nSqQswkAeiOi1r83xy8JldOFDTWiug55KBu9Jnblncd2U6ViHmYgHf01TPZS77NJBhBMKdWj9HQMQ==
 
 cjs-module-lexer@^1.0.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/cjs-module-lexer/-/cjs-module-lexer-1.4.0.tgz#677de7ed7efff67cc40c9bf1897fea79d41b5215"
-  integrity sha512-N1NGmowPlGBLsOZLPvm48StN04V4YvQRL0i6b7ctrVY3epjP/ct7hFLOItz6pDIvRjwpfPxi52a2UWV2ziir8g==
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/cjs-module-lexer/-/cjs-module-lexer-1.4.1.tgz#707413784dbb3a72aa11c2f2b042a0bef4004170"
+  integrity sha512-cuSVIHi9/9E/+821Qjdvngor+xpnlwnuwIyZOaLmHBVdXL+gP+I6QQB9VkO7RI77YIcTV+S1W9AreJ5eN63JBA==
 
 cliui@^6.0.0:
   version "6.0.0"
