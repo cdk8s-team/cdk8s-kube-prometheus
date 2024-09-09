@@ -923,9 +923,9 @@ acorn-walk@^7.1.1:
   integrity sha512-OPdCF6GsMIP+Az+aWfAAOEt2/+iVDKE7oy6lJ098aoe59oAmK76qV6Gw60SbZ8jHuG2wH058GF4pLFbYamYrVA==
 
 acorn-walk@^8.1.1:
-  version "8.3.3"
-  resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.3.3.tgz#9caeac29eefaa0c41e3d4c65137de4d6f34df43e"
-  integrity sha512-MxXdReSRhGO7VlFe1bRG/oI7/mdLV9B9JJT0N8vZOhF7gFRR5l3M8W9G8JxmKV+JC5mGqJ0QvqfSOLsCPa4nUw==
+  version "8.3.4"
+  resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.3.4.tgz#794dd169c3977edf4ba4ea47583587c5866236b7"
+  integrity sha512-ueEepnujpqee2o5aIYnvHU6C0A42MNdsIDeqy5BydrkuC5R1ZuUFnm27EeFJGoEHJQgn3uleRvmTXaJgfXbt4g==
   dependencies:
     acorn "^8.11.0"
 
@@ -1272,19 +1272,19 @@ camelcase@^6.2.0, camelcase@^6.3.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001646:
-  version "1.0.30001658"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001658.tgz#b5f7be8ac748a049ab06aa1cf7a1408d83f074ec"
-  integrity sha512-N2YVqWbJELVdrnsW5p+apoQyYt51aBMSsBZki1XZEfeBCexcM/sf4xiAHcXQBkuOwJBXtWF7aW1sYX6tKebPHw==
+  version "1.0.30001659"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001659.tgz#f370c311ffbc19c4965d8ec0064a3625c8aaa7af"
+  integrity sha512-Qxxyfv3RdHAfJcXelgf0hU4DFUVXBGTjqrBUZLUh8AtlGnsDo+CnncYtTd95+ZKfnANUOzxyIQCuU/UeBZBYoA==
 
 case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.195.199:
-  version "1.195.199"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.199.tgz#aa7fdccd732f0e59e3ed7565965a8a5e4e0be502"
-  integrity sha512-jQXs1R8Jh3UP5ljhZ4C9s88bEcqVopBYKnAArhti1P9EhA3JSO8UQVo/syjtz8mW0qXuvVGDWvh+nF6Of8VoKQ==
+cdk8s-cli@^1.195.200:
+  version "1.195.200"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.195.200.tgz#e28efff0a340b8bd37ac7be137083bf5331589ae"
+  integrity sha512-1NmhaEbsG9SnHAG0oxFM74K+8iSKSZHAyf3/DjOKChIaOtda479OGA7NgmwrGRk1RSNJ/XRxLnJRHhvSCd+xHQ==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
@@ -3301,9 +3301,9 @@ jsii@1.103.1, jsii@1.x:
     yargs "^16.2.0"
 
 jsii@~5.5.0, jsii@~5.5.2:
-  version "5.5.2"
-  resolved "https://registry.yarnpkg.com/jsii/-/jsii-5.5.2.tgz#b6411b742ace39b7d028153bdbdd3c64c02c88b2"
-  integrity sha512-pXvOPzn0pK4pvNF+vl9OjeI+49YDsKnx/CRgu5SoTYNh3HFsWhNg8OukEgW+vyKw6l1ohZQLZfikKnIehe4WZQ==
+  version "5.5.3"
+  resolved "https://registry.yarnpkg.com/jsii/-/jsii-5.5.3.tgz#eca7914a27651c1ef9e76ef626d4f75fa5458921"
+  integrity sha512-MFxdTiq/CNJ0ESKwWNwp2oon4ruHYr/DlrpY//wjUTk4jHyM7Jze+SfvC9raCFJOLzfc2Dcy8aA2HdjNpCpQBg==
   dependencies:
     "@jsii/check-node" "1.103.1"
     "@jsii/spec" "^1.103.1"
