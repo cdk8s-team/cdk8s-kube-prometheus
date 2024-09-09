@@ -3815,10 +3815,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-projen@^0.87.0:
-  version "0.87.0"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.87.0.tgz#dae351c2bf2e9fd67f1d0dc778f50c973054707d"
-  integrity sha512-XGAYLxtNp+azXFQyFRiH3AN4ahw8oolhRz1yq/eowRTuIf/WrX2qjznTR1PGVc1uKauo+3aPEHJz0OfiOUJJLg==
+projen@^0.87.2:
+  version "0.87.2"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.87.2.tgz#0e91c139233fc8d36101e193ddcce75a21930226"
+  integrity sha512-O9qglXmlfuWd58xl1iTRvwIRzb5kNU/DS1kTYYIdQQlwcmlMG6+q0HbdhkkSnkwdqorqflQK1VpVeKF1vC//zg==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
