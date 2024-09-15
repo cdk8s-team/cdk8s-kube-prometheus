@@ -307,9 +307,9 @@
     eslint-visitor-keys "^3.3.0"
 
 "@eslint-community/regexpp@^4.10.0", "@eslint-community/regexpp@^4.6.1":
-  version "4.11.0"
-  resolved "https://registry.yarnpkg.com/@eslint-community/regexpp/-/regexpp-4.11.0.tgz#b0ffd0312b4a3fd2d6f77237e7248a5ad3a680ae"
-  integrity sha512-G/M/tIiMrTAxEWRfLfQJMmGNX28IxBg4PBz8XqQhqUHLFI6TL2htpIB1iQCj144V5ee/JaKyT9/WZ0MGZWfA7A==
+  version "4.11.1"
+  resolved "https://registry.yarnpkg.com/@eslint-community/regexpp/-/regexpp-4.11.1.tgz#a547badfc719eb3e5f4b556325e542fbe9d7a18f"
+  integrity sha512-m4DVN9ZqskZoLU5GlWZadwDnYo3vAEydiUayB9widCl9ffWx2IvPnp6n3on5rJmziJSw9Bv+Z3ChDVdMwXCY8Q==
 
 "@eslint/eslintrc@^2.1.4":
   version "2.1.4"
@@ -1281,10 +1281,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.3:
-  version "1.196.3"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.3.tgz#f88d5bfb45602aa39ce573da6fdda7724c8d6da0"
-  integrity sha512-f0AEdla8ENx9G/WW/T6dD481QPGnirwFf+Ny/4jT8ttiyuE6E40r09fzOp0RluCfziezx1j+w/xMyShQSJDS7w==
+cdk8s-cli@^1.196.4:
+  version "1.196.4"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.4.tgz#511a3ef5ddc9777f59b27613ca9f621cd56c901e"
+  integrity sha512-oPQ7YG4ByHK5Y2213TIYZnNv60n8lAHckONQaLpLmdsStMyJsOydH0r1QxC2TDQhvsVZLOMxeoP5sZaaN0C07g==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
