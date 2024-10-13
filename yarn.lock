@@ -1324,10 +1324,10 @@ cdk8s@^1.63.120:
     follow-redirects "^1.15.9"
     yaml "2.5.1"
 
-cdk8s@^2.69.7:
-  version "2.69.7"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.69.7.tgz#e52f7acf4b63a48b1d9fa41d29e45d0341cc4d7c"
-  integrity sha512-jc90kB8bd/2by+mEBthD+bAydhaYOjMoL5atjZoVvq7wTEVXJq5ohPW9OV8Sk69Nuj4URpFLdvQcOxenDtWZAQ==
+cdk8s@^2.69.8:
+  version "2.69.8"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.69.8.tgz#eb509b044675c6e74967b1e17bda20d62e7282c7"
+  integrity sha512-x649zZj7rynnJMrttRKi/brHHTtuWED2zPYJrMAyOIiJZHCDzSu0IzPIpF0T35r7OLM3hAEjb1CnCh0m74iB8w==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.9"
@@ -1486,7 +1486,7 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
-constructs@^10.0.0, constructs@^10.3.1:
+constructs@^10.0.0, constructs@^10.4.1:
   version "10.4.1"
   resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.4.1.tgz#0567a981b723ec56f26986678dfc49410d29092a"
   integrity sha512-eIZhGVl6SFI0T6eKtjDRlgInJn3X3uh6l4MMpRF+cQrCfm1SPkDUAMwwYEJ6bpj0Muv2quKE2E8HrijKGyNGaw==
