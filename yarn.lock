@@ -1324,14 +1324,14 @@ cdk8s@^1.63.122:
     follow-redirects "^1.15.9"
     yaml "2.6.0"
 
-cdk8s@^2.69.8:
-  version "2.69.8"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.69.8.tgz#eb509b044675c6e74967b1e17bda20d62e7282c7"
-  integrity sha512-x649zZj7rynnJMrttRKi/brHHTtuWED2zPYJrMAyOIiJZHCDzSu0IzPIpF0T35r7OLM3hAEjb1CnCh0m74iB8w==
+cdk8s@^2.69.10:
+  version "2.69.10"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.69.10.tgz#344bedde5ba21b64dc68c4c6865f1f7b6bb00777"
+  integrity sha512-ZWZ8cfl4Kwcs0DmSdl4bUs3FN1LcCBRDlA5jE5ak2WAocPbw9Z0Uu8vCxLNl3alvOevqSriMHtFamrBBdCGvRg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.9"
-    yaml "2.5.1"
+    yaml "2.6.0"
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1477,15 +1477,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
-constructs@^10.0.0:
+constructs@^10.0.0, constructs@^10.4.2:
   version "10.4.2"
   resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.4.2.tgz#e875a78bef932cca12ea63965969873a25c1c132"
   integrity sha512-wsNxBlAott2qg8Zv87q3eYZYgheb9lchtBfjHzzLHtXbttwSrHPs1NNQbBrmbb1YZvYg2+Vh0Dor76w4mFxJkA==
-
-constructs@^10.4.1:
-  version "10.4.1"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.4.1.tgz#0567a981b723ec56f26986678dfc49410d29092a"
-  integrity sha512-eIZhGVl6SFI0T6eKtjDRlgInJn3X3uh6l4MMpRF+cQrCfm1SPkDUAMwwYEJ6bpj0Muv2quKE2E8HrijKGyNGaw==
 
 constructs@^3.4.344:
   version "3.4.344"
@@ -4771,11 +4766,6 @@ yallist@^3.0.2:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-3.1.1.tgz#dbb7daf9bfd8bac9ab45ebf602b8cbad0d5d08fd"
   integrity sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g==
-
-yaml@2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.5.1.tgz#c9772aacf62cb7494a95b0c4f1fb065b563db130"
-  integrity sha512-bLQOjaX/ADgQ20isPJRvF0iRUHIxVhYvr53Of7wGcWlO2jvtUlH5m87DsmulFVxRpNLOnI4tB6p/oh8D7kpn9Q==
 
 yaml@2.6.0, yaml@^2.2.2:
   version "2.6.0"
