@@ -1252,23 +1252,23 @@ camelcase@^6.2.0, camelcase@^6.3.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001669:
-  version "1.0.30001677"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001677.tgz#27c2e2c637e007cfa864a16f7dfe7cde66b38b5f"
-  integrity sha512-fmfjsOlJUpMWu+mAAtZZZHz7UEwsUxIIvu1TJfO1HqFQvB/B+ii0xr9B5HpbZY/mC4XZ8SvjHJqtAY6pDPQEog==
+  version "1.0.30001678"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001678.tgz#b930b04cd0b295136405634aa32ad540d7eeb71e"
+  integrity sha512-RR+4U/05gNtps58PEBDZcPWTgEO2MBeoPZ96aQcjmfkBWRIDfN451fW2qyDA9/+HohLLIL5GqiMwA+IB1pWarw==
 
 case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.38:
-  version "1.196.38"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.38.tgz#e175e93db654a6b86ab13b72a285b8d90fb16028"
-  integrity sha512-TKY86zXGT/LnR5vZURqKp73Yglhqmc3yQN2yyydNAIOfJZyhxsp7CettblRiEhUWaqSplEpRIWWnsIYPr3Lt4g==
+cdk8s-cli@^1.196.39:
+  version "1.196.39"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.39.tgz#2e84b0aaa43aa4f27dfe357852034e78aa78dd49"
+  integrity sha512-Qy1V0FJB1avB4jR78riMDlzFBO170TMqecD6bqsl1bwndnage3YpUeru0FBb1H0IMy0LW0Ui4Kok1SgYbrWMjw==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
-    cdk8s "^1.63.124"
+    cdk8s "^1.63.125"
     codemaker "^1.104.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1290,7 +1290,7 @@ cdk8s-plus-28@^2.5.6:
   dependencies:
     minimatch "^3.1.2"
 
-cdk8s@^1.63.124:
+cdk8s@^1.63.125:
   version "1.63.125"
   resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.125.tgz#8dff3c4b7671ded1350e2911a02a35c8d1844c95"
   integrity sha512-sOUfBiAgX8lzqMjcM6qqCk8/MrJNBreWbVjou2xi9ozyFgV4fF/cTIWiBw0FfDf1iZiYi900d2OqJFIt+m1fZg==
