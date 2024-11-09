@@ -1261,10 +1261,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.40:
-  version "1.196.40"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.40.tgz#68abb0b1e9af78a88b314336e8676da6885ff330"
-  integrity sha512-b+lAX8aNzbCTyC5gOBFJsZkjhWnKmvWDqsKC9cEACr7vVcHiGYnnIDQYoQRNtLFnOlDiUWX0zPKqIiVNAiyu8g==
+cdk8s-cli@^1.196.41:
+  version "1.196.41"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.41.tgz#2a248b54ca1d1ea344703a3a7d21150e089fdfb4"
+  integrity sha512-pg6y/XsUfdA9eQZwRLvECvgEGPPE/SdYZpHODBJZP2y1Amclz4a5aJVhAfunSmeZZot9qcB/PawNE3ZeHQTNiQ==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
@@ -3566,9 +3566,9 @@ nwsapi@^2.2.0:
   integrity sha512-cTGB9ptp9dY9A5VbMSe7fQBcl/tt22Vcqdq8+eN93rblOuE0aCFu4aZ2vMwct/2t+lFnosm8RkQW1I0Omb1UtQ==
 
 object-inspect@^1.13.1:
-  version "1.13.2"
-  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.13.2.tgz#dea0088467fb991e67af4058147a24824a3043ff"
-  integrity sha512-IRZSRuzJiynemAXPYtPe5BoI/RESNYR7TYm50MC5Mqbd3Jmw5y790sErYw3V6SryFJD64b74qQQs9wn5Bg/k3g==
+  version "1.13.3"
+  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.13.3.tgz#f14c183de51130243d6d18ae149375ff50ea488a"
+  integrity sha512-kDCGIbxkDSXE3euJZZXzc6to7fCrKHNI/hSRQnRuQ+BWjFNzZwiFF8fj/6o2t2G9/jTj8PSIYTfCLelLZEeRpA==
 
 object-keys@^1.1.1:
   version "1.1.1"
