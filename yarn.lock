@@ -1307,14 +1307,14 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.48:
-  version "1.196.48"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.48.tgz#50fffa6fb6d377c7356fcd00fde0f93a8659a6a6"
-  integrity sha512-LKN4yHlEeoM+HvHjjI5hGjnJL7h7a3wp1/RlZIj3Xdt8lxoji3igKLXn3UTEDgK08a26P7Cpwd2zMHbeQGkX2A==
+cdk8s-cli@^1.196.49:
+  version "1.196.49"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.49.tgz#e27f630e41bcfcd6f24a2b442eafd96ee131a7a3"
+  integrity sha512-TChpIXlrG8f3XIoo59KBTQYaCt4THBkx+98Jzkpl4tCnb5woNvXsnj2Xg7xmUqtxNbIZwWNS4pLapjzVLyEvtg==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
-    cdk8s "^1.63.130"
+    cdk8s "^1.63.131"
     codemaker "^1.105.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1336,10 +1336,10 @@ cdk8s-plus-28@^2.5.6:
   dependencies:
     minimatch "^3.1.2"
 
-cdk8s@^1.63.130:
-  version "1.63.130"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.130.tgz#0a3b5c8f227b2c17e33b27333807b9dadd973a05"
-  integrity sha512-hd3937VV1OoDrxn8n1se6M0reb9WbpAhJ0tE0tD1d6S++SSwg2ItNQC9c3YigR/vhJogxdXapAjcE4PTeM5yRQ==
+cdk8s@^1.63.131:
+  version "1.63.131"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.131.tgz#347c3a96cae1e0ea9f084af8790d07c1c7a7aa75"
+  integrity sha512-d7kE2DCOvGBLVvLpaL3QQiG5VCgDvbNTMb/KbJyoQup4oq8GaCablXI93oREt7szFPl8LU5JaTBdy702M8W20A==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.9"
