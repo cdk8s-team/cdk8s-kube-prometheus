@@ -808,9 +808,9 @@
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
 "@types/node@*":
-  version "22.9.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.9.0.tgz#b7f16e5c3384788542c72dc3d561a7ceae2c0365"
-  integrity sha512-vuyHg81vvWA1Z1ELfvLko2c8f34gyA0zaic0+Rllc5lbCnbSyuvb2Oxpm6TAUAC/2xZN3QGqxBNggD1nNR2AfQ==
+  version "22.9.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.9.1.tgz#bdf91c36e0e7ecfb7257b2d75bf1b206b308ca71"
+  integrity sha512-p8Yy/8sw1caA8CdRIQBG5tiLHmxtQKObCijiAa9Ez+d4+PRffM4054xbju0msf+cvhJpnFEeNjxmVT/0ipktrg==
   dependencies:
     undici-types "~6.19.8"
 
@@ -1307,10 +1307,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.51:
-  version "1.196.51"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.51.tgz#05d96d08013a3a260ae2074dc721fd7fe25c9a00"
-  integrity sha512-AMimG8winNy/AQsDdntV/EjENlNDRREYKb4GUkS9pmo0ZuXA2a2DRSrWbag7i3tRceqWeK1fxGpRaCWJkPhRVA==
+cdk8s-cli@^1.196.52:
+  version "1.196.52"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.52.tgz#d5bea1001ebe6aa108ba15f8b18ac73815b9c209"
+  integrity sha512-Y56orBop82SOfeP5l16e1rSpOD9ql0+h6XxRcr1uOxHvmNXmwNuxT70bn4HszDpBukz2iBZUnQMZ11x4Bga92Q==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
@@ -1326,7 +1326,7 @@ cdk8s-cli@^1.196.51:
     semver "^7.6.3"
     sscaff "^1.2.274"
     table "^6.8.2"
-    yaml "2.6.0"
+    yaml "2.6.1"
     yargs "^15"
 
 cdk8s-plus-28@^2.5.6:
@@ -1337,13 +1337,13 @@ cdk8s-plus-28@^2.5.6:
     minimatch "^3.1.2"
 
 cdk8s@^1.63.131:
-  version "1.63.131"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.131.tgz#347c3a96cae1e0ea9f084af8790d07c1c7a7aa75"
-  integrity sha512-d7kE2DCOvGBLVvLpaL3QQiG5VCgDvbNTMb/KbJyoQup4oq8GaCablXI93oREt7szFPl8LU5JaTBdy702M8W20A==
+  version "1.63.132"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.132.tgz#e2c3795a33a8422293e5ec3e6bf236484d481bc5"
+  integrity sha512-1C6qKyuSVi3PL4wT2zfpXj82vQ08gMU5Wq71fIbMPzucBHzxiuDeG3rJxwJ/BbMs/odGcZ6ClDPdLEB+oy2sTg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.9"
-    yaml "2.6.0"
+    yaml "2.6.1"
 
 cdk8s@^2.69.17:
   version "2.69.17"
@@ -4732,7 +4732,7 @@ yaml@2.6.0:
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.6.0.tgz#14059ad9d0b1680d0f04d3a60fe00f3a857303c3"
   integrity sha512-a6ae//JvKDEra2kdi1qzCyrJW/WZCgFi8ydDV+eXExl95t+5R+ijnqHJbz9tmMh8FUjx3iv2fCQ4dclAQlO2UQ==
 
-yaml@^2.2.2:
+yaml@2.6.1, yaml@^2.2.2:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.6.1.tgz#42f2b1ba89203f374609572d5349fb8686500773"
   integrity sha512-7r0XPzioN/Q9kXBro/XPnA6kznR73DHq+GXh5ON7ZozRO6aMjbmiBuKste2wslTFkC5d1dw0GooOCepZXJ2SAg==
