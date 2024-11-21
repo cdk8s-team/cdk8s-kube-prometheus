@@ -1298,23 +1298,23 @@ camelcase@^6.2.0, camelcase@^6.3.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001669:
-  version "1.0.30001680"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001680.tgz#5380ede637a33b9f9f1fc6045ea99bd142f3da5e"
-  integrity sha512-rPQy70G6AGUMnbwS1z6Xg+RkHYPAi18ihs47GH0jcxIG7wArmPgY3XbS2sRdBbxJljp3thdT8BIqv9ccCypiPA==
+  version "1.0.30001683"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001683.tgz#7f026a2d5d319a9cf8915a1451173052caaadc81"
+  integrity sha512-iqmNnThZ0n70mNwvxpEC2nBJ037ZHZUoBI5Gorh1Mw6IlEAZujEoU1tXA628iZfzm7R9FvFzxbfdgml82a3k8Q==
 
 case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.52:
-  version "1.196.52"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.52.tgz#d5bea1001ebe6aa108ba15f8b18ac73815b9c209"
-  integrity sha512-Y56orBop82SOfeP5l16e1rSpOD9ql0+h6XxRcr1uOxHvmNXmwNuxT70bn4HszDpBukz2iBZUnQMZ11x4Bga92Q==
+cdk8s-cli@^1.196.53:
+  version "1.196.53"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.53.tgz#165fac397aea1b4461b0cbddbfd32c591a8c51cb"
+  integrity sha512-Pe+X0AoOA4yObrJ0tjR93PK0rWXcNdyx1UUVIq1Mjc7wyJbjZCNHo3SzzvarsOJOALCqnYsCuzZtmYqxZJmzXQ==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
-    cdk8s "^1.63.131"
+    cdk8s "^1.63.132"
     codemaker "^1.105.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1336,7 +1336,7 @@ cdk8s-plus-28@^2.5.6:
   dependencies:
     minimatch "^3.1.2"
 
-cdk8s@^1.63.131:
+cdk8s@^1.63.132:
   version "1.63.132"
   resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.132.tgz#e2c3795a33a8422293e5ec3e6bf236484d481bc5"
   integrity sha512-1C6qKyuSVi3PL4wT2zfpXj82vQ08gMU5Wq71fIbMPzucBHzxiuDeG3rJxwJ/BbMs/odGcZ6ClDPdLEB+oy2sTg==
