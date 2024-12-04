@@ -1299,10 +1299,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.65:
-  version "1.196.65"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.65.tgz#7803ed6fddb260be5eb7f731d801c08aa2ad0715"
-  integrity sha512-8xEhjYPsfAO87omvWBDD5DgO/n3Rk3nBoXXnCP/BI0NGes4mVCuTX+8knsmS/HS8mpce7PvoAyQm6di3Qf+3zA==
+cdk8s-cli@^1.196.66:
+  version "1.196.66"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.66.tgz#85d1d66834be0b1043bc594ca0b7b422cb144d94"
+  integrity sha512-64bLvvWlfmB9DXA4YHyrLVHOD5jzuhfAFI34hCqhOi1uD0uDDqPyEk2EzHpJbwFXda25gp/r5wuL8zT0GXNOdg==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
@@ -1317,7 +1317,7 @@ cdk8s-cli@^1.196.65:
     json2jsii "0.4.5"
     semver "^7.6.3"
     sscaff "^1.2.274"
-    table "^6.8.2"
+    table "^6.9.0"
     yaml "2.6.1"
     yargs "^15"
 
@@ -4325,10 +4325,10 @@ symbol-tree@^3.2.4:
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.4.tgz#430637d248ba77e078883951fb9aa0eed7c63fa2"
   integrity sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==
 
-table@^6.8.2:
-  version "6.8.2"
-  resolved "https://registry.yarnpkg.com/table/-/table-6.8.2.tgz#c5504ccf201213fa227248bdc8c5569716ac6c58"
-  integrity sha512-w2sfv80nrAh2VCbqR5AK27wswXhqcck2AhfnNW76beQXskGZ1V12GwS//yYVa3d3fcvAip2OUnbDAjW2k3v9fA==
+table@^6.9.0:
+  version "6.9.0"
+  resolved "https://registry.yarnpkg.com/table/-/table-6.9.0.tgz#50040afa6264141c7566b3b81d4d82c47a8668f5"
+  integrity sha512-9kY+CygyYM6j02t5YFHbNz2FN5QmYGv9zAjVp4lCDjlCw7amdckXlEt/bjMhUIfj4ThGRE4gCUH5+yGnNuPo5A==
   dependencies:
     ajv "^8.0.1"
     lodash.truncate "^4.4.2"
