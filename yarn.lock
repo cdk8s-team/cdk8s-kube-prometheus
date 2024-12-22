@@ -1318,10 +1318,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.83:
-  version "1.196.83"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.83.tgz#20eed7bc3cb9c65bbd92381a77c5a5350724ad1a"
-  integrity sha512-Yya2ofPGqwJ7ot0SJSTGD8tbrt4k3HVwnFQT+LMRns424Y0dr9RwE69z50/RQmNNPl9Bx/jLjAaLn1AEs9hzMA==
+cdk8s-cli@^1.196.84:
+  version "1.196.84"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.84.tgz#d962d1688008fbe9d6302ffca559b80d39e2612d"
+  integrity sha512-Pwd3oPBqu+EOqLln+aEWriCrKLov6Fqk/pAaLZnIDChuc/ip3tPn7IZFknM6awn3/x1S81DcJ0E+wO/CHDYi1g==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
@@ -2531,9 +2531,9 @@ is-callable@^1.1.3, is-callable@^1.2.7:
   integrity sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA==
 
 is-core-module@^2.13.0, is-core-module@^2.15.1, is-core-module@^2.16.0:
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.16.0.tgz#6c01ffdd5e33c49c1d2abfa93334a85cb56bd81c"
-  integrity sha512-urTSINYfAYgcbLb0yDQ6egFm6h3Mo1DcF9EkyXSRjjzdHbsulg01qhwWuXdOoUBuTkbQ80KDboXa0vFJ+BDH+g==
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.16.1.tgz#2a98801a849f43e2add644fbb6bc6229b19a4ef4"
+  integrity sha512-UfoeMA6fIJ8wTYFEUjelnaGI67v6+N7qXJEvQuIGa99l4xsCruSYOVSQ0uPANn4dAzm8lkYPaKLrrijLq7x23w==
   dependencies:
     hasown "^2.0.2"
 
