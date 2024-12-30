@@ -1310,10 +1310,10 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.91:
-  version "1.196.91"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.91.tgz#4b20b0129325c1db7e8e53e14c76c575ce73eacd"
-  integrity sha512-vggKnxdAcvJSOs+2ihY+SjRN0D4tZt/krG/N/I3afNAhsTTg4xw1LqOdZNt6epRsoqg/KSDyT/FzPeV7/fLKqQ==
+cdk8s-cli@^1.196.92:
+  version "1.196.92"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.92.tgz#45d6c2b5103c8dae8722726fda531395fa95d9fa"
+  integrity sha512-vKUQA819kCilNVBxkUEXM9dPYCtP1uSQuRJ3MZkZnVHuFeF/K5H3BUqpxq1sIa7iUTwTCkBvXVnNSg7Ved7XsA==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
@@ -3753,9 +3753,9 @@ optionator@^0.9.3:
     word-wrap "^1.2.5"
 
 own-keys@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/own-keys/-/own-keys-1.0.0.tgz#4ab4f9758185bd8f2716f95453ea7da72fb56c09"
-  integrity sha512-HcuIjzpjrUbqZPGzWHVg95Bc2Y37KoY5n66QQyEGMzrIWVKHsgHcv8/Aq5Cu3qFUQJzMSPVP8MD3oaFoaME1lg==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/own-keys/-/own-keys-1.0.1.tgz#e4006910a2bf913585289676eebd6f390cf51358"
+  integrity sha512-qFOyK5PjiWZd+QQIh+1jhdb9LpxTF0qs7Pm8o5QHYZ0M3vKqSqzsZaEB6oWlxZ+q2sJBMI/Ktgd2N5ZwQoRHfg==
   dependencies:
     get-intrinsic "^1.2.6"
     object-keys "^1.1.1"
