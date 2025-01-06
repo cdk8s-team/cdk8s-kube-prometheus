@@ -1310,14 +1310,14 @@ case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk8s-cli@^1.196.98:
-  version "1.196.98"
-  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.98.tgz#3aca608b60354899cdca190c1799f0ab603cf8b3"
-  integrity sha512-nBAC3dmDzNsiFtVsuvIm5JQFRuy7Vr16f3JsNFDc3NNufRqTFD91Jxxw3RCV21kBk/8mlzinrJQikdCqFAGtfw==
+cdk8s-cli@^1.196.99:
+  version "1.196.99"
+  resolved "https://registry.yarnpkg.com/cdk8s-cli/-/cdk8s-cli-1.196.99.tgz#aae3aa20bb31daf0a54800e32d9f73d50beabb27"
+  integrity sha512-rSjte5jaSDG3baAQOixIAU49/sIDGfQbwwGgK8eRaqs9C/6OUOgA2eqJFzTSRol8Gs1qq5UHtQVeSPuMxJKSRg==
   dependencies:
     "@types/node" "^16"
     ajv "^8.17.1"
-    cdk8s "^1.63.143"
+    cdk8s "^1.63.144"
     codemaker "^1.106.0"
     colors "1.4.0"
     constructs "^3.4.344"
@@ -1339,10 +1339,10 @@ cdk8s-plus-28@^2.5.6:
   dependencies:
     minimatch "^3.1.2"
 
-cdk8s@^1.63.143:
-  version "1.63.143"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.143.tgz#cca9bb0e4028329a248834d3be38752486c9f147"
-  integrity sha512-/oG2QsPE9YPSB0aXDdWj/yW8etx1suTL/z2WqHnVMeHrAPXty66tq4QRB5ybdj2TeQ5SG+A5c0CE4UrtR+KwPw==
+cdk8s@^1.63.144:
+  version "1.63.144"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-1.63.144.tgz#12505b4f1b038d2a16654471948782db8750f866"
+  integrity sha512-pFK6yM53AexTZhqYqlYiqkNHd370850D68TsQTcEbvwmvxn7kFYHSEnEzUuQtGE4GtqoA/JSqYEUzem5o1suRg==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.9"
@@ -2077,9 +2077,9 @@ fast-levenshtein@^2.0.6:
   integrity sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==
 
 fast-uri@^3.0.1:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/fast-uri/-/fast-uri-3.0.3.tgz#892a1c91802d5d7860de728f18608a0573142241"
-  integrity sha512-aLrHthzCjH5He4Z2H9YZ+v6Ujb9ocRuW6ZzkJQOrTxleEijANq4v1TsaPaVG1PZcuurEzrLcWRyYBYXD5cEiaw==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/fast-uri/-/fast-uri-3.0.4.tgz#bf2973f18465da231ef4b1e43a188c3bf580cf98"
+  integrity sha512-G3iTQw1DizJQ5eEqj1CbFCWhq+pzum7qepkxU7rS1FGZDqjYKcrguo9XDRbV7EgPnn8CgaPigTq+NEjyioeYZQ==
 
 fastq@^1.6.0:
   version "1.18.0"
