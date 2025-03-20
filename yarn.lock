@@ -1368,10 +1368,10 @@ cdk8s@^1.63.145:
     follow-redirects "^1.15.9"
     yaml "2.7.0"
 
-cdk8s@^2.69.54:
-  version "2.69.54"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.69.54.tgz#36e289d75851621895e2a230ac369e816c9e0f46"
-  integrity sha512-twgfdP4ZAjPSvMAoPufbmO38EXo5v16Kx0k8uNIlk/kFrCNDzCAtlqCqVBpHVlWo/U3Hq9X76Vr2UoEIhyvEfw==
+cdk8s@^2.69.55:
+  version "2.69.55"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.69.55.tgz#30368cdffc13864d25c7143e72f3947185ee30b8"
+  integrity sha512-rz9bE2ufGyb4tPu0vHEsRYHLuGJj3lqBcIoAFiUl2GMSE3bC8jAscQzEJdH3GuK6GMQD3+mKIAqF95lYGOP9ig==
   dependencies:
     fast-json-patch "^3.1.1"
     follow-redirects "^1.15.9"
