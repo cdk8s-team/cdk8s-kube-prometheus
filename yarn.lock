@@ -3994,10 +3994,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-projen@^0.91.18:
-  version "0.91.18"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.18.tgz#b3f42ec06330475bce05d09d7a7840017fa21438"
-  integrity sha512-Hzvxc/lXRD9E6vcrNf6VrO/XmLshxa861d4A6t8RAAmSJ5/N+FDm7EvTQxZwGEiIZEqmQR2mttHaULdU3EWimg==
+projen@^0.91.20:
+  version "0.91.20"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.20.tgz#8b40782a133ab4330865f72b49a5bfcf40614779"
+  integrity sha512-CurufZ0DMMpP7w5tlm7e5MvoSUEFL2tCpPqRFVc+G74E8Z8+CnnFpwxz8OUhQrbOtn7GyNkfhR6o+UNTcstpig==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
