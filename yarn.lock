@@ -3599,12 +3599,12 @@ jsii-srcmak@0.1.1236:
     yargs "^17.7.2"
 
 jsii@~5.5.3:
-  version "5.5.32"
-  resolved "https://registry.yarnpkg.com/jsii/-/jsii-5.5.32.tgz#00f8891ef641356e7a9ba6d1179a95fa267fedc3"
-  integrity sha512-4W4786lIeqJCFMWdCEv2mYYQGwMlcpL0bjPgWut3qbWBrZL08asPMwKHQhBGsRofjn7dO9ymH89ctdhtIkXd4A==
+  version "5.5.33"
+  resolved "https://registry.yarnpkg.com/jsii/-/jsii-5.5.33.tgz#f1ede658b0cb7d2f75937d1bffcedd4e0175525a"
+  integrity sha512-Tb4p25mpnbBXQs8aHOsJxMFzH4vqM1yTPiAXnq8w4G1yqipPlrX8OsqzU+NHx1alOUd5vZSUauMgc98fpWOWcQ==
   dependencies:
-    "@jsii/check-node" "1.111.0"
-    "@jsii/spec" "^1.111.0"
+    "@jsii/check-node" "1.112.0"
+    "@jsii/spec" "^1.112.0"
     case "^1.6.3"
     chalk "^4"
     downlevel-dts "^0.11.0"
