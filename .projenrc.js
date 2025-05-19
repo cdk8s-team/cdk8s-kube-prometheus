@@ -11,6 +11,9 @@ const project = new Cdk8sTeamJsiiProject({
     'cdk8s-plus-28',
     'constructs',
   ],
+  eslintOptions: {
+    ignorePatterns: ['src/imports/*.ts']
+  }
 });
 
 const synth = project.addTask('synth');
