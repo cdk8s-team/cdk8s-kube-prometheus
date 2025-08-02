@@ -1386,13 +1386,13 @@ cdk8s@^1.63.145:
     follow-redirects "^1.15.9"
     yaml "2.7.0"
 
-cdk8s@^2.70.3:
-  version "2.70.3"
-  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.70.3.tgz#cb514f4ce5d9d9856bce906e9ff5e885a863f51b"
-  integrity sha512-KPGi7dkDdISBr+6FiA8LpxPTIgSYnhEUtn1AxbqUUlmBk8HO8P1xPdWje1oe/kDsMKao8Eqjkn5mkyifFVcaEg==
+cdk8s@^2.70.4:
+  version "2.70.4"
+  resolved "https://registry.yarnpkg.com/cdk8s/-/cdk8s-2.70.4.tgz#80bb5d54898c1e1e66d8b528d33abde6c586c680"
+  integrity sha512-BqktXBIiaPr70ndzxCSaqQt6cpkSFv8nFiLmxUE6ZT3q+RpHKUqiN4QJjh04qaCuIYPhV+qmZ35OA51iwHMzAQ==
   dependencies:
     fast-json-patch "^3.1.1"
-    follow-redirects "^1.15.9"
+    follow-redirects "^1.15.11"
     yaml "2.8.0"
 
 chalk@^4, chalk@^4.0.0, chalk@^4.1.2:
@@ -2211,7 +2211,7 @@ flatted@^3.2.7, flatted@^3.2.9:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.3.3.tgz#67c8fad95454a7c7abebf74bb78ee74a44023358"
   integrity sha512-GX+ysw4PBCz0PzosHDepZGANEuFCMLrnRTiEy9McGjmkCQYwRq4A/X786G/fjM/+OjsWSU1ZrY5qyARZmO/uwg==
 
-follow-redirects@^1.15.9:
+follow-redirects@^1.15.11, follow-redirects@^1.15.9:
   version "1.15.11"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.11.tgz#777d73d72a92f8ec4d2e410eb47352a56b8e8340"
   integrity sha512-deG2P0JfjrTxl50XGCDyfI97ZGVCxIpfKYmfyrQ54n5FO/0gfIES8C/Psl6kWVDolizcaaxZJnTS0QSMxvnsBQ==
